@@ -73,7 +73,7 @@ def download_pdf(info_code: str) -> bytes:
 
 
 def pdf_to_markdown(pdf_bytes: bytes, report: dict) -> str:
-    import fitz  # pymupdf（延遲匯入，僅轉檔時需要）
+    import pymupdf  # 延遲匯入，僅轉檔時需要
 
     ic = report.get("infoCode", "")
     title = report.get("title", "Untitled")
@@ -82,7 +82,7 @@ def pdf_to_markdown(pdf_bytes: bytes, report: dict) -> str:
     publish_date = report.get("publishDate", "")
     pages = report.get("attachPages", 0)
 
-    doc = fitz.open(stream=pdf_bytes, filetype="pdf")
+    doc = pymupdf.open(stream=pdf_bytes, filetype="pdf")
     text = "\n".join(page.get_text() for page in doc)
     doc.close()
 
