@@ -1,0 +1,89 @@
+# 券商研報全雲端傳輸管線 — 每日定時
+#
+# 觸發:
+#   schedule     每日 UTC 22:00（北京 06:00）自動執行
+#   workflow_dispatch  手動執行（GitHub Actions 頁面按 Run workflow）
+#
+# 流程: fetch(東財清單) → convert(PDF→MD) → upload(GDrive) → commit manifest
+#
+# 前置: GitHub Secret `GDRIVE_CREDENTIALS`（Service Account JSON）
+name: Daily Report Transfer
+
+on:
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+    inputs:
+      days:
+        description: '掃描窗口天數'
+        required: false
+        default: '7'
+
+# 保證同一時間只有一個 workflow（避免 downloaded.json 衝突）
+concurrency:
+  group: report-transfer
+  cancel-in-progress: false
+
+# bot 需把 manifest/*.json commit 回倉庫
+permissions:
+  contents: write
+
+jobs:
+  transfer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install pymupdf requests google-api-python-client google-auth
+
+      # ── Step 1: 抓取東財研報清單 → manifest/pending.json ──
+      - name: Fetch report list
+        run: python scripts/fetch_reports.py --days "${{ github.event.inputs.days || '7' }}"
+        env:
+          PYTHONUNBUFFERED: 1
+
+      # ── Step 2: 下載 PDF → 轉 MD（去重）──
+      - name: Convert PDFs to Markdown
+        run: python scripts/convert_pdf.py
+        env:
+          PYTHONUNBUFFERED: 1
+
+      # ── Step 3: 上傳 MD 到 GDrive:/sec_reports/ ──
+      - name: Upload to GDrive
+        if: ${{ secrets.GDRIVE_CREDENTIALS != '' }}
+        env:
+          GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }}
+          GDRIVE_FOLDER_NAME: sec_reports
+        run: python scripts/upload_gdrive.py
+
+      - name: Skip GDrive upload (not configured)
+        if: ${{ secrets.GDRIVE_CREDENTIALS == '' }}
+        run: |
+          echo "ℹ️  GDRIVE_CREDENTIALS 未設定，跳過 GDrive 上傳。"
+          echo "    .md 檔案保留在 reports/ 中。"
+
+      # ── Step 4: 把 manifest（pending/downloaded）commit 回倉庫 ──
+      - name: Commit manifest back
+        run: |
+          git config user.name "con-reports bot"
+          git config user.email "bot@con-reports-transfer.local"
+          git add manifest/
+          if git diff --staged --quiet; then
+            echo "ℹ️  manifest 無變更，跳過 commit"
+          else
+            git commit -m "chore(manifest): update report lists [skip ci]"
+            git push
+            echo "✅ manifest 已更新並推送"
+          fi

@@ -1,0 +1,15 @@
+# 轉換後的 .md 報告透過 GDrive 交付，不納入 Git 追蹤
+reports/
+
+# Python 虛擬環境與快取
+.venv/
+__pycache__/
+*.pyc
+
+# 本地暫存
+.credentials/
+*.local.json
+
+# 作業系統檔案
+.DS_Store
+Thumbs.db
