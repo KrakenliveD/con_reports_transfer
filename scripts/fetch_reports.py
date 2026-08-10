@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 """
-券商研報抓取器 (Report Fetcher) v1.0
-從東方財富研報中心拉取全量行業研報（qType=1），排除定期報告與非券商源。
+券商研報抓取器 (Report Fetcher) v1.1
+從研報中心拉取全量行業研報清單（qType=1），排除定期彙報與非券商源。
 
 用法:
   python scripts/fetch_reports.py --days 7          # 近7天窗口（預設）
   python scripts/fetch_reports.py --days 1 --limit 5 # 小批量冒煙測試
   python scripts/fetch_reports.py --output manifest/pending.json
 
-規則來源: topic-ana（東方財富 REST API + 排除詞表）
-本腳本獨立實作，不依賴 topic-ana 程式碼。
+必要環境變數:
+  REPORT_API_BASE   研報列表 API 端點（本機 .env / GitHub Secret）
+
+規則來源: 彙整自既有抓取規則（REST API + 排除詞表）。
+本腳本獨立實作，不依賴其他專案程式碼。
 """
 
 import argparse
@@ -19,8 +22,9 @@ import sys
 
 import requests
 
-API_BASE = "https://reportapi.eastmoney.com/report/list"
-PDF_URL_TMPL = "https://pdf.dfcfw.com/pdf/H3_{info_code}_1.pdf"
+from config import require
+
+API_BASE = require("REPORT_API_BASE")
 
 # 標題命中以下詞 = 定期彙報，不做全文轉檔
 EXCLUDE_TITLE_PATTERNS = [
@@ -58,7 +62,7 @@ def is_excluded_report(title: str) -> bool:
 
 
 def fetch_reports(days: int) -> list:
-    """從東財 API 拉取近 days 天的全部研報（翻頁）"""
+    """從研報列表 API 拉取近 days 天的全部研報（翻頁）"""
     end_date = datetime.date.today()
     begin_date = end_date - datetime.timedelta(days=days)
     all_data = []
@@ -104,14 +108,13 @@ def select_reports(reports: list) -> list:
             "publishDate": r.get("publishDate", ""),
             "attachPages": r.get("attachPages", 0),
             "attachSize": r.get("attachSize", 0),
-            "pdf_url": PDF_URL_TMPL.format(info_code=info_code),
         })
     return selected
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="券商研報抓取器 — 東財全量行業研報清單"
+        description="券商研報抓取器 — 全量行業研報清單"
     )
     parser.add_argument("--days", type=int, default=7,
                         help="近幾日窗口（預設 7）")

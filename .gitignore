@@ -6,7 +6,8 @@ reports/
 __pycache__/
 *.pyc
 
-# 本地暫存
+# 本地暫存（敏感設定，勿提交）
+.env
 .credentials/
 *.local.json
 

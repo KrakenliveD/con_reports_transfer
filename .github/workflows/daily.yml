@@ -4,9 +4,13 @@
 #   schedule     每日 UTC 22:00（北京 06:00）自動執行
 #   workflow_dispatch  手動執行（GitHub Actions 頁面按 Run workflow）
 #
-# 流程: fetch(東財清單) → convert(PDF→MD) → upload(GDrive) → commit manifest
+# 流程: fetch(研報清單) → convert(PDF→MD) → upload(GDrive) → commit manifest
 #
-# 前置: GitHub Secret `GDRIVE_CREDENTIALS`（Service Account JSON）
+# 前置 GitHub Secrets（不寫入 repo）:
+#   REPORT_API_BASE      研報列表 API 端點
+#   PDF_URL_TEMPLATE     PDF 下載網址模板（含 {infoCode} 佔位）
+#   DOWNLOAD_REFERER     下載請求 Referer（可選）
+#   GDRIVE_CREDENTIALS   Google Service Account JSON
 name: Daily Report Transfer
 
 on:
@@ -48,19 +52,32 @@ jobs:
           pip install --upgrade pip
           pip install pymupdf requests google-api-python-client google-auth
 
-      # ── Step 1: 抓取東財研報清單 → manifest/pending.json ──
+      - name: Verify required secrets
+        run: |
+          if [ -z "$REPORT_API_BASE" ] || [ -z "$PDF_URL_TEMPLATE" ]; then
+            echo "::error::缺少 REPORT_API_BASE 或 PDF_URL_TEMPLATE Secret"
+            exit 1
+          fi
+        env:
+          REPORT_API_BASE: ${{ secrets.REPORT_API_BASE }}
+          PDF_URL_TEMPLATE: ${{ secrets.PDF_URL_TEMPLATE }}
+
+      # ── Step 1: 抓取研報清單 → manifest/pending.json ──
       - name: Fetch report list
         run: python scripts/fetch_reports.py --days "${{ github.event.inputs.days || '7' }}"
         env:
+          REPORT_API_BASE: ${{ secrets.REPORT_API_BASE }}
           PYTHONUNBUFFERED: 1
 
       # ── Step 2: 下載 PDF → 轉 MD（去重）──
       - name: Convert PDFs to Markdown
         run: python scripts/convert_pdf.py
         env:
+          PDF_URL_TEMPLATE: ${{ secrets.PDF_URL_TEMPLATE }}
+          DOWNLOAD_REFERER: ${{ secrets.DOWNLOAD_REFERER }}
           PYTHONUNBUFFERED: 1
 
-      # ── Step 3: 上傳 MD 到 GDrive:/sec_reports/ ──
+      # ── Step 3: 上傳 MD 到 GDrive ──
       - name: Upload to GDrive
         if: ${{ secrets.GDRIVE_CREDENTIALS != '' }}
         env:

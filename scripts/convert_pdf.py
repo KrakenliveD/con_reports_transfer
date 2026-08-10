@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """
-券商研報 PDF → Markdown 轉換器 (PDF Converter) v1.0
+券商研報 PDF → Markdown 轉換器 (PDF Converter) v1.1
 讀取 manifest/pending.json，對「尚未下載」的報告：
-  1. 下載 PDF (pdf.dfcfw.com)
+  1. 下載 PDF（URL 由環境變數提供）
   2. pymupdf 純文字提取 → 平鋪寫入 reports/{infoCode}_{title}.md
   3. 更新 manifest/downloaded.json（去重）
 
 用法:
   python scripts/convert_pdf.py
 
+必要環境變數:
+  PDF_URL_TEMPLATE    PDF 下載網址模板（含 {infoCode} 佔位）
 依賴: pymupdf requests
 """
 
@@ -20,6 +22,8 @@ from pathlib import Path
 
 import requests
 
+from config import get, require
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 MANIFEST_DIR = REPO_ROOT / "manifest"
 REPORTS_DIR = REPO_ROOT / "reports"
@@ -27,15 +31,17 @@ REPORTS_DIR = REPO_ROOT / "reports"
 PENDING_FILE = MANIFEST_DIR / "pending.json"
 DOWNLOADED_FILE = MANIFEST_DIR / "downloaded.json"
 
-PDF_BASE_URL = "https://pdf.dfcfw.com/pdf/H3_{infoCode}_1.pdf"
+PDF_URL_TEMPLATE = require("PDF_URL_TEMPLATE")
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     ),
-    "Referer": "https://data.eastmoney.com/",
 }
-DELAY = 0.5  # 秒，對東財伺服器禮貌
+referer = get("DOWNLOAD_REFERER")
+if referer:
+    HEADERS["Referer"] = referer
+DELAY = 0.5  # 秒，對下載伺服器禮貌
 
 
 def load_json(path: Path, default=None):
@@ -64,7 +70,8 @@ def save_downloaded_set(codes: set):
 
 
 def download_pdf(info_code: str) -> bytes:
-    url = f"{PDF_BASE_URL.format(infoCode=info_code)}?{int(time.time()*1000)}.pdf"
+    url = PDF_URL_TEMPLATE.format(infoCode=info_code)
+    url = f"{url}?{int(time.time()*1000)}.pdf"
     resp = requests.get(url, headers=HEADERS, timeout=60)
     resp.raise_for_status()
     if "application/pdf" not in resp.headers.get("content-type", ""):
@@ -86,9 +93,8 @@ def pdf_to_markdown(pdf_bytes: bytes, report: dict) -> str:
     text = "\n".join(page.get_text() for page in doc)
     doc.close()
 
-    pdf_url = PDF_BASE_URL.format(infoCode=ic)
     md = f"# {title}\n\n"
-    md += f"> **原始 PDF**：[下載]({pdf_url})  \n"
+    md += f"> **原始 PDF**：[下載]({PDF_URL_TEMPLATE.format(infoCode=ic)})  \n"
     md += f"> **infoCode**：`{ic}`  \n"
     md += f"> **行業**：{industry}  |  **機構**：{org}  \n"
     if publish_date:
