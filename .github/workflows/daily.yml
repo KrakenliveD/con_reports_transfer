@@ -78,18 +78,12 @@ jobs:
           PYTHONUNBUFFERED: 1
 
       # ── Step 3: 上傳 MD 到 GDrive ──
+      # 不設 if 條件：GDRIVE_CREDENTIALS 未設定時，腳本自身會偵測並跳過
       - name: Upload to GDrive
-        if: ${{ secrets.GDRIVE_CREDENTIALS != '' }}
         env:
           GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }}
           GDRIVE_FOLDER_NAME: sec_reports
         run: python scripts/upload_gdrive.py
-
-      - name: Skip GDrive upload (not configured)
-        if: ${{ secrets.GDRIVE_CREDENTIALS == '' }}
-        run: |
-          echo "ℹ️  GDRIVE_CREDENTIALS 未設定，跳過 GDrive 上傳。"
-          echo "    .md 檔案保留在 reports/ 中。"
 
       # ── Step 4: 把 manifest（pending/downloaded）commit 回倉庫 ──
       - name: Commit manifest back
