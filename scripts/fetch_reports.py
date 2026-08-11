@@ -19,6 +19,7 @@ import argparse
 import datetime
 import json
 import sys
+from pathlib import Path
 
 import requests
 
@@ -135,6 +136,7 @@ def main():
         selected = selected[: args.limit]
         print(f"   --limit 截斷至 {args.limit} 篇", file=sys.stderr)
 
+    Path(args.output).parent.mkdir(parents=True, exist_ok=True)
     with open(args.output, "w", encoding="utf-8") as f:
         json.dump(selected, f, ensure_ascii=False, indent=2)
     print(f"✅ 已寫入 {args.output}", file=sys.stderr)
