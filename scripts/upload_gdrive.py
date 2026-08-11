@@ -24,6 +24,9 @@ GDRIVE_FOLDER_NAME = os.environ.get("GDRIVE_FOLDER_NAME", "sec_reports")
 GDRIVE_FOLDER_ID = os.environ.get("GDRIVE_FOLDER_ID", "")
 
 
+GDRIVE_SCOPE = "https://www.googleapis.com/auth/drive.file"
+
+
 def get_service():
     creds_json = os.environ.get("GDRIVE_CREDENTIALS", "")
     if not creds_json:
@@ -31,13 +34,23 @@ def get_service():
               file=sys.stderr)
         return None
     try:
-        from google.oauth2 import service_account
         from googleapiclient.discovery import build
 
-        creds = service_account.Credentials.from_service_account_info(
-            json.loads(creds_json),
-            scopes=["https://www.googleapis.com/auth/drive.file"],
-        )
+        info = json.loads(creds_json)
+        if info.get("type") == "service_account":
+            # Service Account：適用於 Google Workspace + Shared Drive
+            from google.oauth2 import service_account
+
+            creds = service_account.Credentials.from_service_account_info(
+                info, scopes=[GDRIVE_SCOPE]
+            )
+        else:
+            # OAuth authorized_user（Desktop Client + 個人 Google 帳號，免費 15GB 配額）
+            from google.oauth2 import credentials as oauth_creds
+
+            creds = oauth_creds.Credentials.from_authorized_user_info(
+                info, scopes=[GDRIVE_SCOPE]
+            )
         return build("drive", "v3", credentials=creds)
     except ImportError:
         print("⚠️  缺少 google-api-python-client / google-auth。"
