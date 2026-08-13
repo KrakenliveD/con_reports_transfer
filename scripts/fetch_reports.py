@@ -109,6 +109,7 @@ def select_reports(reports: list) -> list:
             "publishDate": r.get("publishDate", ""),
             "attachPages": r.get("attachPages", 0),
             "attachSize": r.get("attachSize", 0),
+            "ratingChange": r.get("ratingChange", 0),
         })
     return selected
 

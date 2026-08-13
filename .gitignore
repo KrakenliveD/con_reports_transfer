@@ -11,6 +11,9 @@ __pycache__/
 .credentials/
 *.local.json
 
+# 本地進度/隱私註記（含帳號信箱、憑據、PAT 說明），勿提交
+PROGRESS.md
+
 # 作業系統檔案
 .DS_Store
 Thumbs.db

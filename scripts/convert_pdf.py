@@ -88,6 +88,7 @@ def pdf_to_markdown(pdf_bytes: bytes, report: dict) -> str:
     org = report.get("orgSName", "")
     publish_date = report.get("publishDate", "")
     pages = report.get("attachPages", 0)
+    rating_change = report.get("ratingChange", 0)
 
     doc = pymupdf.open(stream=pdf_bytes, filetype="pdf")
     text = "\n".join(page.get_text() for page in doc)
@@ -99,6 +100,7 @@ def pdf_to_markdown(pdf_bytes: bytes, report: dict) -> str:
     md += f"> **行業**：{industry}  |  **機構**：{org}  \n"
     if publish_date:
         md += f"> **日期**：{publish_date[:10]}  \n"
+    md += f"> **評級變化**：{rating_change}  \n"
     md += f"> **頁數**：{pages}\n\n"
     md += "---\n\n"
     md += text
