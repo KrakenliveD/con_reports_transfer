@@ -70,6 +70,26 @@ class TestNonBroker(unittest.TestCase):
         self.assertTrue(is_broker("中金公司"))
         self.assertTrue(is_broker("东吴证券"))
 
+    def test_broker_allowlist_by_keyword(self):
+        """白名單：名稱含「证券」即視為券商"""
+        for org in ["国新证券股份", "国投证券(香港)", "交银国际证券", "中银证券"]:
+            self.assertTrue(is_broker(org), f"應視為券商: {org}")
+
+    def test_broker_allowlist_by_abbrev(self):
+        """白名單：已知券商縮寫（名稱不含「证券」）"""
+        for org in ["中金公司", "国泰君安", "太平洋", "申万宏源"]:
+            self.assertTrue(is_broker(org), f"應視為券商: {org}")
+
+    def test_non_broker_no_security_keyword(self):
+        """無「证券」字樣的非券商一律排除（黑名單不再逐一維護）"""
+        for org in ["中证鹏元", "中国信通院", "腾讯研究院", "尼尔森",
+                    "中国电力企业联合会", "清华大学", "华为数字能源技术"]:
+            self.assertFalse(is_broker(org), f"應過濾: {org}")
+
+    def test_broker_blacklist_override(self):
+        """黑名單覆蓋白名單：含「证券」字樣的非券商仍排除"""
+        self.assertFalse(is_broker("证券时报"))
+
 
 class TestSelectReports(unittest.TestCase):
     def _reports(self):
