@@ -16,7 +16,7 @@ os.environ.setdefault("REPORT_API_BASE", "https://example.invalid/report")
 from fetch_reports import (
     EXCLUDE_TITLE_PATTERNS,
     is_excluded_report,
-    is_broker,
+    is_research_org,
     select_reports,
 )
 
@@ -57,38 +57,44 @@ class TestExcludePatterns(unittest.TestCase):
 class TestNonBroker(unittest.TestCase):
     def test_non_broker_filtered(self):
         """簡體非券商機構必須被過濾（2026-08-17 前繁體詞表全部失效）"""
-        self.assertFalse(is_broker("头豹研究院"))
-        self.assertFalse(is_broker("蔚云出海(广州)企业咨询"))
-        self.assertFalse(is_broker("摩熵数科(成都)医药科技"))
-        self.assertFalse(is_broker("广州市吉图企业管理咨询"))
-        self.assertFalse(is_broker("尼尔森"))
-        self.assertFalse(is_broker("飞瓜数据"))
-        self.assertFalse(is_broker("艾瑞"))
+        self.assertFalse(is_research_org("蔚云出海(广州)企业咨询"))
+        self.assertFalse(is_research_org("摩熵数科(成都)医药科技"))
+        self.assertFalse(is_research_org("广州市吉图企业管理咨询"))
+        self.assertFalse(is_research_org("尼尔森"))
+        self.assertFalse(is_research_org("飞瓜数据"))
+        self.assertFalse(is_research_org("艾瑞"))
 
     def test_broker_kept(self):
-        self.assertTrue(is_broker("国信证券"))
-        self.assertTrue(is_broker("中金公司"))
-        self.assertTrue(is_broker("东吴证券"))
+        self.assertTrue(is_research_org("国信证券"))
+        self.assertTrue(is_research_org("中金公司"))
+        self.assertTrue(is_research_org("东吴证券"))
 
     def test_broker_allowlist_by_keyword(self):
         """白名單：名稱含「证券」即視為券商"""
         for org in ["国新证券股份", "国投证券(香港)", "交银国际证券", "中银证券"]:
-            self.assertTrue(is_broker(org), f"應視為券商: {org}")
+            self.assertTrue(is_research_org(org), f"應視為券商: {org}")
 
     def test_broker_allowlist_by_abbrev(self):
         """白名單：已知券商縮寫（名稱不含「证券」）"""
         for org in ["中金公司", "国泰君安", "太平洋", "申万宏源"]:
-            self.assertTrue(is_broker(org), f"應視為券商: {org}")
+            self.assertTrue(is_research_org(org), f"應視為券商: {org}")
 
-    def test_non_broker_no_security_keyword(self):
-        """無「证券」字樣的非券商一律排除（黑名單不再逐一維護）"""
-        for org in ["中证鹏元", "中国信通院", "腾讯研究院", "尼尔森",
-                    "中国电力企业联合会", "清华大学", "华为数字能源技术"]:
-            self.assertFalse(is_broker(org), f"應過濾: {org}")
+    def test_research_org_allowlist(self):
+        """精選研究機構白名單：數據驅動挑選的10家非券商保留"""
+        for org in ["中证鹏元", "联合资信评估", "中国信通院", "国家能源局",
+                    "清华大学", "头豹研究院", "甲子光年智库", "腾讯研究院",
+                    "源达信息", "山东涌益信息咨询"]:
+            self.assertTrue(is_research_org(org), f"應視為研究機構: {org}")
+
+    def test_non_research_org_no_security_keyword(self):
+        """非券商亦非精選研究機構者一律排除（默認拒絕）"""
+        for org in ["广州市吉图企业管理咨询", "尼尔森", "中国电力企业联合会",
+                    "华为数字能源技术", "蔚云出海(广州)企业咨询", "世界银行"]:
+            self.assertFalse(is_research_org(org), f"應過濾: {org}")
 
     def test_broker_blacklist_override(self):
-        """黑名單覆蓋白名單：含「证券」字樣的非券商仍排除"""
-        self.assertFalse(is_broker("证券时报"))
+        """黑名單覆蓋白名單：含「证券」字樣的非券商媒體仍排除"""
+        self.assertFalse(is_research_org("证券时报"))
 
 
 class TestSelectReports(unittest.TestCase):
@@ -100,8 +106,10 @@ class TestSelectReports(unittest.TestCase):
              "orgSName": "中银证券", "industryName": "电子"},
             {"infoCode": "A3", "title": "金融科技行业跟踪",
              "orgSName": "华泰证券", "industryName": "计算机"},
-            {"infoCode": "A4", "title": "头豹行业研究",
-             "orgSName": "头豹研究院", "industryName": "未知"},
+            {"infoCode": "A4", "title": "蔚云出海行业研究",
+             "orgSName": "蔚云出海(广州)企业咨询", "industryName": "未知"},
+            {"infoCode": "A5", "title": "储能行业中期展望",
+             "orgSName": "中证鹏元", "industryName": "电池"},
             {"infoCode": "", "title": "无infoCode应丢弃",
              "orgSName": "国金证券", "industryName": "未知"},
         ]
@@ -110,9 +118,10 @@ class TestSelectReports(unittest.TestCase):
         selected = select_reports(self._reports())
         codes = {r["infoCode"] for r in selected}
         self.assertIn("A2", codes)          # 深研保留
+        self.assertIn("A5", codes)          # 精選研究機構（中证鹏元）保留
         self.assertNotIn("A1", codes)       # 周报排除
         self.assertNotIn("A3", codes)       # 行业跟踪排除
-        self.assertNotIn("A4", codes)       # 非券商排除
+        self.assertNotIn("A4", codes)       # 非券商/非研究機構排除
         self.assertNotIn("", codes)         # 空 infoCode 排除
 
 
