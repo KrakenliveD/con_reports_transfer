@@ -167,6 +167,10 @@ def main():
         print(f"❌ 失敗: {len(failed)} 篇", file=sys.stderr)
         for f in failed:
             print(f"   [{f['infoCode']}] {f['error']}", file=sys.stderr)
+        if success:
+            # 部分成功：不中斷後續上傳步驟；失敗篇未記入 downloaded.json，下次自動重試
+            print("⚠️ 部分成功：已成功批次照常上傳，失敗篇留待下次重試", file=sys.stderr)
+            return
         sys.exit(1)
     else:
         print("🎉 全部完成！", file=sys.stderr)

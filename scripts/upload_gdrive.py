@@ -86,16 +86,25 @@ def get_or_create_folder(service, folder_name: str, parent_id: str = None) -> st
 
 
 def list_existing_files(service, folder_id: str) -> set:
-    results = (
-        service.files()
-        .list(
-            q=f"'{folder_id}' in parents and trashed=false",
-            fields="files(name)",
-            pageSize=1000,
+    """列出資料夾內全部文件（分頁翻頁，避免 pageSize=1000 上限漏列）。"""
+    names = set()
+    page_token = None
+    while True:
+        results = (
+            service.files()
+            .list(
+                q=f"'{folder_id}' in parents and trashed=false",
+                fields="files(name), nextPageToken",
+                pageSize=1000,
+                pageToken=page_token,
+            )
+            .execute()
         )
-        .execute()
-    )
-    return {f["name"] for f in results.get("files", [])}
+        names.update(f["name"] for f in results.get("files", []))
+        page_token = results.get("nextPageToken")
+        if not page_token:
+            break
+    return names
 
 
 def upload_file(service, file_path: Path, folder_id: str):
