@@ -1,5 +1,285 @@
 [
   {
+    "infoCode": "AP202609061829081551",
+    "title": "耐用消费产业行业研究：医美行业拐点初显，关注下游头部机构+上游新品平台化机会",
+    "industryName": "消费电子",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 2146,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829081552",
+    "title": "通信行业研究：HBM市场极度紧缺，字节获296亿美元银团贷款",
+    "industryName": "通信设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 1133,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829081550",
+    "title": "电力设备与新能源行业研究：中报全览：锂电验景气，AIDC信号密，光伏底夯实，电网出口增",
+    "industryName": "电力",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 1622,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829081541",
+    "title": "煤炭行业中报总结：煤价回升促Q2业绩高增，关注供给收缩与库存低位",
+    "industryName": "煤炭开采",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 27,
+    "attachSize": 2209,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829081339",
+    "title": "证券行业研究：私募募集新规征求意见，进一步完善监管体系",
+    "industryName": "证券Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 540,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829081058",
+    "title": "AI周观察：7月手机市场大幅下滑，多家旗舰模型更新",
+    "industryName": "计算机设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 1430,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202609061829080054",
+    "title": "从保险法修改看中小保险化险：保单兑付延续，化险处置健全",
+    "industryName": "保险Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 355,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829080010",
+    "title": "电子行业研究：“韬定律”与业绩斜率：AI PCB及半导体设备迎来布局良机",
+    "industryName": "半导体",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 9,
+    "attachSize": 1604,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829080009",
+    "title": "互联网行业研究：GPT-6 Astra&Fable5.1正式发布，持续看好AI应用",
+    "industryName": "软件开发",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1247,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829079974",
+    "title": "机械行业研究：看好船舶、燃气轮机，重视激光设备机会",
+    "industryName": "工程机械",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 1956,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829079973",
+    "title": "家电行业研究：Q2全球电视出货增长，AI硬件生态加速发展",
+    "industryName": "白色家电",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1815,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829079025",
+    "title": "从SaaS到AgenticPlatform：AI时代软件公司的价值重估",
+    "industryName": "数字媒体",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 28,
+    "attachSize": 2274,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829078996",
+    "title": "电子行业深度报告：创业板算力ETF广发（158049）：AI算力景气深化，PCB与算力租赁共振",
+    "industryName": "元件",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 1245,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829078807",
+    "title": "食品饮料行业研究：白酒价盘平稳向好，持续推荐预期修复下的板块配置",
+    "industryName": "非白酒",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 922,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829078806",
+    "title": "电子行业研究：下半年PCB开启新品拉货和盈利修复的双重利好",
+    "industryName": "消费电子",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 1285,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829078758",
+    "title": "批发和零售贸易行业研究：中报业绩验证，持续看好跨境电商β",
+    "industryName": "互联网电商",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 992,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829078698",
+    "title": "耐用消费产业行业研究：潮玩高端线发售打开空间，液冷赛道多项催化",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 23,
+    "attachSize": 4011,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829078648",
+    "title": "全球主流铜企Q2更新：供给收缩延续，北美与拉美主导减量",
+    "industryName": "工业金属",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 2446,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829078649",
+    "title": "耐用消费产业行业研究：如何捕捉增长型红利消费机遇，复盘全球烟草5年涨幅缘何冠绝消费",
+    "industryName": "消费电子",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 36,
+    "attachSize": 3870,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829078309",
+    "title": "银行业点评：信用卡不良暴露与出清周期——美国经验借鉴",
+    "industryName": "银行Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 627,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829073056",
+    "title": "石油化工行业研究：军事行动与制裁加码，局势再度升级",
+    "industryName": "炼化及贸易",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 16,
+    "attachSize": 2146,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829073022",
+    "title": "电力设备与新能源行业研究：锂电9月洞察：旺季需求向好，中报业绩回暖",
+    "industryName": "电池",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 16,
+    "attachSize": 2790,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829072848",
+    "title": "医药行业研究：重磅海外授权合作落地，中国创新药企持续获得MNC体系化认可",
+    "industryName": "化学制药",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 2207,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829072847",
+    "title": "社会服务业行业研究：暑运收官，双节接力：2026暑期出行链复盘与后续展望",
+    "industryName": "酒店餐饮",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 1100,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609061829071760",
+    "title": "计算机行业点评：GPT-6 Astra发布：Agent能力迎来跃迁，AI应用落地有望加速",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "金元证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 370,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609051829067076",
+    "title": "电动车26H1财报总结：锂电延续高景气，利润向中上游倾斜",
+    "industryName": "电池",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 77,
+    "attachSize": 2748,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202609051829066082",
+    "title": "非银金融行业点评报告：三方平台转接渠道监管六年沿革落地，“备案+分级”开启渠道规范化时代",
+    "industryName": "多元金融",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-09-06 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 399,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609051829065327",
+    "title": "银行行业深度报告：负债欠稳定下的银行扩表动能与行为特征",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-09-05 00:00:00.000",
+    "attachPages": 29,
+    "attachSize": 2107,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202609051829064307",
     "title": "科技产业研究深度：谁拿走了算力的利润？全国一体化算力网下的商业模式与企业出路",
     "industryName": "元件",
@@ -1267,26 +1547,6 @@
     "publishDate": "2026-08-30 00:00:00.000",
     "attachPages": 15,
     "attachSize": 853,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202608291828703352",
-    "title": "油运行业研究：中国加大原油采购，油运Q4超级旺季可期",
-    "industryName": "航运港口",
-    "orgSName": "国金证券",
-    "publishDate": "2026-08-29 00:00:00.000",
-    "attachPages": 21,
-    "attachSize": 3029,
-    "ratingChange": 2
-  },
-  {
-    "infoCode": "AP202608291828664987",
-    "title": "保险行业7月保费：受高基数影响寿险业务短期承压，产险保费增速环比提升",
-    "industryName": "保险Ⅱ",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-08-29 00:00:00.000",
-    "attachPages": 5,
-    "attachSize": 555,
     "ratingChange": 3
   }
 ]
