@@ -1,5 +1,215 @@
 [
   {
+    "infoCode": "AP202609131829339327",
+    "title": "耐用消费产业行业研究：Vuse推出风味烟弹，光博会推新光学方案，折叠屏新机发布",
+    "industryName": "家居用品",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 23,
+    "attachSize": 3944,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829339325",
+    "title": "非银行金融行业研究：《期货公司监督管理办法》修订落地，资本约束驱动高质量发展",
+    "industryName": "多元金融",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 500,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829339323",
+    "title": "26H1公募保有量点评：市场交投活跃下保有规模持续增长",
+    "industryName": "多元金融",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 506,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829338926",
+    "title": "耐用消费产业行业研究：8月服装线上零售仍有压力；贝泰妮水光针获批",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 1858,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829338901",
+    "title": "计算机行业研究：算力的强结构主线",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 20,
+    "attachSize": 3055,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829338899",
+    "title": "批发和零售贸易行业研究：跨境景气验证，酒店需求改善，静待黄金终端回暖",
+    "industryName": "互联网电商",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 1467,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829338898",
+    "title": "交通运输产业行业研究：中东航线VLCC运费突破80万，河南快递涨价",
+    "industryName": "物流",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 1264,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829338035",
+    "title": "电子行业研究：台积电营收再创新高，PCB新品放量+盈利修复，MLCC供给紧张",
+    "industryName": "半导体",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 9,
+    "attachSize": 1565,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829338036",
+    "title": "食品饮料行业研究：关注白酒旺季催化，持续推荐预期修复下的配置性",
+    "industryName": "白酒Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 1222,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829338029",
+    "title": "互联网行业研究：Meta发布个人AI Agent Muse，DeepSeek发布V4.1 Flash",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1234,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829337887",
+    "title": "机械行业研究：看好光模块设备、叶片、3D打印，关注MEMS探针卡",
+    "industryName": "工程机械",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 1175,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829336302",
+    "title": "医药健康行业研究：WCLC大会催化，关注创新药临床数据读出",
+    "industryName": "化学制药",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 2354,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829336303",
+    "title": "家电行业研究：IFA家电新品趋势，端侧AI加速落地",
+    "industryName": "白色家电",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 12,
+    "attachSize": 2155,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829336006",
+    "title": "批发和零售贸易行业研究：海外大型零售渠道26Q2业绩总结：消费韧性持续，盈利端改善显著",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 16,
+    "attachSize": 2061,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829335989",
+    "title": "石油化工行业研究：胡塞控制曼德海峡，供应风险再次升级",
+    "industryName": "炼化及贸易",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 2148,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829335703",
+    "title": "券商财富管理深度研究：财富管理奏响时代强音，买方投顾进入加速期",
+    "industryName": "证券Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 30,
+    "attachSize": 2679,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829335592",
+    "title": "汽车行业深度报告：精密减速器——国产需求旺盛，人形机器人打开市场空间",
+    "industryName": "汽车零部件",
+    "orgSName": "华鑫证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 63,
+    "attachSize": 4117,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829334247",
+    "title": "AI算力增长与ROI变现测算：考虑芯片、电力、建设能力与资本开支约束",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 41,
+    "attachSize": 1171,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829329515",
+    "title": "交通运输行业商业航天：可回收技术破局，航天运力开启成本革命——火箭篇",
+    "industryName": "铁路公路",
+    "orgSName": "金元证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 41,
+    "attachSize": 3956,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609131829329505",
+    "title": "计算机行业点评：Meta发布个人AI智能体Muse，Agent安全有望成为网络安全新需求",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "金元证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 332,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609121829316735",
+    "title": "证券行业点评报告：四大赛道同步扩容，周期属性有望弱化",
+    "industryName": "证券Ⅱ",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-09-13 00:00:00.000",
+    "attachPages": 5,
+    "attachSize": 569,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202609111829283146",
     "title": "手术机器人行业深度报告：千亿蓝海掘金，国产手术机器人加速突围",
     "industryName": "医疗器械",
@@ -1028,25 +1238,5 @@
     "attachPages": 2,
     "attachSize": 399,
     "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609051829065327",
-    "title": "银行行业深度报告：负债欠稳定下的银行扩表动能与行为特征",
-    "industryName": "银行Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-09-05 00:00:00.000",
-    "attachPages": 29,
-    "attachSize": 2107,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609051829064307",
-    "title": "科技产业研究深度：谁拿走了算力的利润？全国一体化算力网下的商业模式与企业出路",
-    "industryName": "元件",
-    "orgSName": "国金证券",
-    "publishDate": "2026-09-05 00:00:00.000",
-    "attachPages": 71,
-    "attachSize": 2652,
-    "ratingChange": ""
   }
 ]
