@@ -1,5 +1,205 @@
 [
   {
+    "infoCode": "AP202609151829425636",
+    "title": "A股生物医药行业2026半年报总结：创新药及产业链持续高景气",
+    "industryName": "医药商业",
+    "orgSName": "国信证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 485,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829424839",
+    "title": "海外房地产研究系列之一：三重β框架，AI重估印尼",
+    "industryName": "房地产开发",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 33,
+    "attachSize": 1410,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829423498",
+    "title": "2025年中国隐形正畸行业概览：集采降价43%推动下沉渗透，双寡头格局松动，中尾部厂商在下沉市场寻找突围路径",
+    "industryName": "医疗服务",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 32,
+    "attachSize": 2882,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202609151829420633",
+    "title": "银行业中报综述：营收盈利稳健增长、资产质量小幅波动",
+    "industryName": "银行Ⅱ",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 2539,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829420040",
+    "title": "房地产行业2026年1-8月统计局数据点评：8月商品房销售同比降幅扩大；首次披露二手房网签面积，累计同比增长11%；投资同比降幅收窄；开竣工同比降幅扩大",
+    "industryName": "房地产开发",
+    "orgSName": "中银证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 544,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202609151829418862",
+    "title": "汽车行业2026年9月投资策略及中报总结：行业整体利润承压，Cybercab投入运营",
+    "industryName": "汽车零部件",
+    "orgSName": "国信证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 45,
+    "attachSize": 13292,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829418865",
+    "title": "金融深度报告：从2026年半年报看机构配置线索-资产荒延续，存款搬家放缓",
+    "industryName": "多元金融",
+    "orgSName": "国信证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 55,
+    "attachSize": 1771,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202609151829417354",
+    "title": "散热材料深度报告（一）：AI消费电子时代将至，散热材料需求凸显",
+    "industryName": "化学原料",
+    "orgSName": "山西证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 29,
+    "attachSize": 1604,
+    "ratingChange": 2
+  },
+  {
+    "infoCode": "AP202609151829417058",
+    "title": "机械设备行业简评：挖掘机出口增速强劲，龙头公司半年报收入持续增长",
+    "industryName": "通用设备",
+    "orgSName": "东海证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 274,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202609151829414604",
+    "title": "高盛与摩根士丹利深度复盘：业务转型抬升ROE中枢，盈利持续性驱动估值重塑",
+    "industryName": "证券Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 34,
+    "attachSize": 2980,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829414566",
+    "title": "银行行业深度报告：司库同业存单策略的新局与选择",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 22,
+    "attachSize": 1458,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829414557",
+    "title": "商贸零售行业点评报告：8月社零同比+0.4%，政策推动商品消费扩容升级",
+    "industryName": "一般零售",
+    "orgSName": "开源证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 392,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829414481",
+    "title": "化工行业报告：本周煤焦油、液氯、炭黑、烟煤、丙酮涨幅居前，国际油价重返100美元",
+    "industryName": "化学制品",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 38,
+    "attachSize": 2797,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829411339",
+    "title": "硅微粉填料行业专题：覆铜板与半导体封装快速迭代，硅微粉填料国产化空间巨大",
+    "industryName": "化学制品",
+    "orgSName": "国信证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 20,
+    "attachSize": 843,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829407397",
+    "title": "8月信贷收支表点评：大行“缺长钱”压力有望在Q4缓解",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 785,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829404208",
+    "title": "非银金融行业2026H1基金销售渠道数据点评：指数化趋势延续，财富管理竞争转向综合服务能力",
+    "industryName": "多元金融",
+    "orgSName": "开源证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 635,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829403608",
+    "title": "汽车行业2026年秋季投资策略：持续看好汽车出海及RoboX两大赛道",
+    "industryName": "汽车零部件",
+    "orgSName": "上海证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 22,
+    "attachSize": 1581,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829403573",
+    "title": "2026年新消费行业秋季策略：秋启三新，科技、出海、可持续",
+    "industryName": "一般零售",
+    "orgSName": "上海证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 20,
+    "attachSize": 1733,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829398279",
+    "title": "科技行业秋季策略：AI算力需求持续，产品迭代带动价值量增长",
+    "industryName": "元件",
+    "orgSName": "上海证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 1118,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609151829396816",
+    "title": "证券行业报告：政策打开成长空间，量能仍需跟踪验证",
+    "industryName": "证券Ⅱ",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-09-15 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 871,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202609141829384737",
     "title": "中小盘流动性观察：换手率上行与成交结构的分化",
     "industryName": "综合Ⅱ",
