@@ -1,5 +1,185 @@
 [
   {
+    "infoCode": "AP202609201829672287",
+    "title": "2026年中国民族药产业探索及跟踪：300亿市场迈向标准化与全国化，医药如何突破区域产业边界？",
+    "industryName": "医药商业",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 3445,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202609201829672286",
+    "title": "硅基跃迁者——氟硅新材料在新能源与半导体浪潮中的战略卡位与价值重构 头豹词条报告系列",
+    "industryName": "化学制品",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 5587,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202609201829672256",
+    "title": "计算机行业研究：算力的高斜率细分",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 2873,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829672183",
+    "title": "交通运输产业行业研究：VLCC刷新极值至120万，义乌快递涨价",
+    "industryName": "物流",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 2148,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829670283",
+    "title": "石油化工行业研究：沙特管道运力恢复或好于预期，地缘溢价短期回落",
+    "industryName": "油气开采Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 2166,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829670280",
+    "title": "机械行业研究：看好超快激光、MEMS探针卡，关注MPO设备",
+    "industryName": "工程机械",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 1764,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829670235",
+    "title": "保险Ⅱ行业深度报告：海外险企复盘：利率定方向、转型定中枢、验证定持续",
+    "industryName": "保险Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 51,
+    "attachSize": 1739,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829670123",
+    "title": "家电行业研究：8月家电社零转正，绿联发布AI NAS产品矩阵",
+    "industryName": "白色家电",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1935,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829670118",
+    "title": "医药健康行业研究：临床前CRO订单充沛，板块高景气持续",
+    "industryName": "中药Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 2062,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829669933",
+    "title": "耐用消费产业行业研究：箱板纸进入旺季推荐玖龙深度，国内HNB进入具体工作布置期",
+    "industryName": "家居用品",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 4428,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829669931",
+    "title": "机器人行业研究：Figure发布Helix 2.5，特斯拉启动新一轮中国供应链量产审厂",
+    "industryName": "专用设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 1365,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829669908",
+    "title": "公用事业行业研究：电量受基数影响承压，重视4%的火电",
+    "industryName": "电力",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 2338,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829669907",
+    "title": "互联网行业研究：智谱上线GLM-5.3-FlashX，持续看好AI应用",
+    "industryName": "数字媒体",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1193,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829668406",
+    "title": "食品饮料行业研究：白酒旺季分化延续，关注配置板块龙头",
+    "industryName": "非白酒",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 907,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829668341",
+    "title": "2026年半年度保险行业分析",
+    "industryName": "保险Ⅱ",
+    "orgSName": "联合资信评估",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 1063,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202609201829668340",
+    "title": "2026年半年度人身险行业分析",
+    "industryName": "保险Ⅱ",
+    "orgSName": "联合资信评估",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 935,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202609201829665896",
+    "title": "通信行业点评报告：重视“MPO&DFAU”新变化",
+    "industryName": "通信设备",
+    "orgSName": "开源证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 409,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609201829659418",
+    "title": "8月社零报告专题：8月社零同增0.4%，温和复苏",
+    "industryName": "一般零售",
+    "orgSName": "东海证券",
+    "publishDate": "2026-09-20 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 846,
+    "ratingChange": 4
+  },
+  {
     "infoCode": "AP202609181829624780",
     "title": "2025年中国智能养老机器人行业概览：从机构到居家：智能养老机器人B端281亿+ C端加速渗透，“硬件+服务+数据”生态布局打开657亿市场空间",
     "industryName": "专用设备",
