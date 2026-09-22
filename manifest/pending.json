@@ -1,5 +1,205 @@
 [
   {
+    "infoCode": "AP202609221829765609",
+    "title": "电子：AI驱动存储、先进制程、先进封装高景气，应用材料快速增长",
+    "industryName": "半导体",
+    "orgSName": "太平洋",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 389,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829765369",
+    "title": "通信行业快评报告：华为发布新一代升腾960超节点，NPO首次在超节点系统中实现应用",
+    "industryName": "通信设备",
+    "orgSName": "万联证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 487,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829765170",
+    "title": "2025年中国液态金属行业概览：从高端芯片散热到柔性机器人，液态金属如何重构工业材料应用边界？",
+    "industryName": "工业金属",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 35,
+    "attachSize": 1807,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202609221829764502",
+    "title": "银行行业深度报告：DR贷款新篇：FTP体系重构与债贷比价新平衡",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 1397,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829761800",
+    "title": "传媒：全球首届AIGC长片大赛启幕，AI长剧商业化进程有望提速",
+    "industryName": "数字媒体",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 620,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829761794",
+    "title": "传媒：GPT-6拓展3D生成新路径，重申AI+影视、游戏布局机遇",
+    "industryName": "数字媒体",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 651,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829761160",
+    "title": "电子：硬件与服务双轮驱动，苹果业绩快速增长",
+    "industryName": "元件",
+    "orgSName": "太平洋",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 394,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829760931",
+    "title": "公用环保202609第3期：浙江下调机制电价竞价充足率，8月全社会用电量1.03万亿瓦时（同比+1.7%）",
+    "industryName": "电力",
+    "orgSName": "国信证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 28,
+    "attachSize": 1941,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829760930",
+    "title": "计算机行业点评：Jev模型：给Agent装上\"小脑\"，专用决策模型开启效率新范式",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "金元证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 366,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829760877",
+    "title": "宠物食品系列专题二（上）：行业结构升级，功能食品赛道可期",
+    "industryName": "农产品加工",
+    "orgSName": "山西证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 29,
+    "attachSize": 3191,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829759948",
+    "title": "AI制药专题：全流程赋能制药未来，成药验证未来可期",
+    "industryName": "化学制药",
+    "orgSName": "西南证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 62,
+    "attachSize": 6958,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202609221829758330",
+    "title": "3D打印机械行业研究：3C市场渗透率提升引爆3D打印产业化拐点",
+    "industryName": "消费电子",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 32,
+    "attachSize": 4423,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829757884",
+    "title": "半导体化学品专题：先进制程抬升材料价值量，半导体含氟材料加速国产化",
+    "industryName": "半导体",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 79,
+    "attachSize": 3498,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202609221829754361",
+    "title": "中小盘行业观察：半导体：深度回调后的放量转强，修复走到哪一步",
+    "industryName": "半导体",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 602,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829754322",
+    "title": "新能源新材料产业研究深度：天齐锂业海外矿权收购启示录",
+    "industryName": "电池",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 39,
+    "attachSize": 2138,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202609221829754042",
+    "title": "新能源+AI展望（第10期）：十五五新型电力系统规划落地，多维度举措保障新能源消纳",
+    "industryName": "光伏设备",
+    "orgSName": "太平洋",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 468,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829753826",
+    "title": "金融科技2026H1业绩综述：AI赋能走向纵深，海外合规生态扩容",
+    "industryName": "证券Ⅱ",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 48,
+    "attachSize": 957,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202609221829750681",
+    "title": "通信行业周跟踪：RSI加速大模型研发迭代，华为发布NPO超节点昇腾960",
+    "industryName": "通信设备",
+    "orgSName": "山西证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 646,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202609221829741891",
+    "title": "锂行业深度系列之一：锂云母行业持续升级，重视产业链长期机遇",
+    "industryName": "能源金属",
+    "orgSName": "太平洋",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 34,
+    "attachSize": 1637,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202609221829741825",
+    "title": "电力设备与新能源行业研究：宁夏首单公募REITs落地，新能源资产证券化再提速",
+    "industryName": "风电设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-09-22 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 1870,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202609221829740884",
     "title": "有色金属行业2026年半年报综述：地缘风险扰动货币政策预期，主要金属价格波动加大",
     "industryName": "工业金属",
