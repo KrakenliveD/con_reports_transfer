@@ -1,5 +1,15 @@
 [
   {
+    "infoCode": "AP202609241829876131",
+    "title": "保险Ⅱ行业点评报告：内地险资获准投资港股通ETF，利好险资灵活配置与两地市场互通",
+    "industryName": "保险Ⅱ",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-09-25 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 455,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202609241829872911",
     "title": "医疗器械行业投资策略：医疗器械板块业绩复苏，行业拐点或已至",
     "industryName": "医疗器械",
@@ -1088,185 +1098,5 @@
     "attachPages": 14,
     "attachSize": 846,
     "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202609181829624780",
-    "title": "2025年中国智能养老机器人行业概览：从机构到居家：智能养老机器人B端281亿+ C端加速渗透，“硬件+服务+数据”生态布局打开657亿市场空间",
-    "industryName": "专用设备",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 36,
-    "attachSize": 2852,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202609181829624781",
-    "title": "2026年半导体真空泵行业词条报告",
-    "industryName": "半导体",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 17,
-    "attachSize": 5748,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202609181829621372",
-    "title": "电子行业点评报告：华为全联接大会：昇腾960芯片性能翻倍，NPO超节点首次规模商用",
-    "industryName": "元件",
-    "orgSName": "金元证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 306,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829621262",
-    "title": "社会服务行业快评报告：文旅政策双线落地，供给端转向存量置换",
-    "industryName": "酒店餐饮",
-    "orgSName": "万联证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 480,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829620498",
-    "title": "电气设备行业深度：钒液流储能的机遇和挑战",
-    "industryName": "电网设备",
-    "orgSName": "五矿证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 30,
-    "attachSize": 2877,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202609181829618907",
-    "title": "社服与消费视角点评8月国内宏观数据：8月社零维持较低增速，期待促消费扩内需政策持续发力",
-    "industryName": "酒店餐饮",
-    "orgSName": "中银证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 6,
-    "attachSize": 585,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829618490",
-    "title": "计算机IT服务、软件开发行业2026年半年报综述：AI仍是行业主线，业绩弹性待进一步释放",
-    "industryName": "软件开发",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 19,
-    "attachSize": 2129,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829618485",
-    "title": "有色金属行业点评报告：美联储开启加息，贵金属波动加大",
-    "industryName": "贵金属",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 250,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829615105",
-    "title": "光伏行业2026年半年报总结：营收承压，主链续亏，辅材分化",
-    "industryName": "光伏设备",
-    "orgSName": "联储证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 20,
-    "attachSize": 2514,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829615031",
-    "title": "机械行业研究：PCB设备新技术怎么选？",
-    "industryName": "专用设备",
-    "orgSName": "国金证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 29,
-    "attachSize": 4009,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829614984",
-    "title": "银行：理财观察之“定开债基”-基金净值披露降频，有望平抑理财波动",
-    "industryName": "银行Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 5,
-    "attachSize": 714,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829614284",
-    "title": "电动两轮车行业深度之三：探索具身智能机器人赛道，驶向星辰大海",
-    "industryName": "汽车零部件",
-    "orgSName": "信达证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 30,
-    "attachSize": 4277,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829610725",
-    "title": "PCB行业专题研究：AI驱动PCB价值重估，量价齐升加速兑现",
-    "industryName": "半导体",
-    "orgSName": "源达信息",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 11,
-    "attachSize": 940,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202609181829610202",
-    "title": "70个大中城市房价点评：8月新房和二手房价格同比降幅继续收窄",
-    "industryName": "房地产开发",
-    "orgSName": "太平洋",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 8,
-    "attachSize": 2135,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829610203",
-    "title": "医疗器械行业思考：板块复苏走到了什么阶段？",
-    "industryName": "医疗器械",
-    "orgSName": "太平洋",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 23,
-    "attachSize": 1139,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202609181829584191",
-    "title": "医药行业2026年半年报总结：医药上游板块表现较好，寻找业绩估值相对匹配个股",
-    "industryName": "中药Ⅱ",
-    "orgSName": "西南证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 151,
-    "attachSize": 17518,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202609181829584186",
-    "title": "有色金属行业研究：复合氧化锆：望迎类“六氟化钨”时刻",
-    "industryName": "小金属",
-    "orgSName": "国金证券",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 29,
-    "attachSize": 3355,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609181829584139",
-    "title": "2026年8月统计局房地产数据点评：8月销售保持低位，开工、投资降幅扩大",
-    "industryName": "房地产开发",
-    "orgSName": "太平洋",
-    "publishDate": "2026-09-18 00:00:00.000",
-    "attachPages": 11,
-    "attachSize": 1232,
-    "ratingChange": 3
   }
 ]
