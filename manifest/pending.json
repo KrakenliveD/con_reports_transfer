@@ -1,5 +1,15 @@
 [
   {
+    "infoCode": "AP202610021830105411",
+    "title": "制造行业：制造业全要素生产率研究报告（2026年）",
+    "industryName": "专用设备",
+    "orgSName": "中国信通院",
+    "publishDate": "2026-10-02 00:00:00.000",
+    "attachPages": 26,
+    "attachSize": 1124,
+    "ratingChange": 4
+  },
+  {
     "infoCode": "AP202609301830049884",
     "title": "电力设备及新能源：商用车快速电动化+海外市场增长突出，重视动力电池需求韧性",
     "industryName": "电池",
@@ -797,16 +807,6 @@
     "publishDate": "2026-09-27 00:00:00.000",
     "attachPages": 5,
     "attachSize": 566,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202609241829876131",
-    "title": "保险Ⅱ行业点评报告：内地险资获准投资港股通ETF，利好险资灵活配置与两地市场互通",
-    "industryName": "保险Ⅱ",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-09-25 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 455,
     "ratingChange": 3
   }
 ]
