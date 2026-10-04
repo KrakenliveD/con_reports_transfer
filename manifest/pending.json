@@ -1,5 +1,95 @@
 [
   {
+    "infoCode": "AP202610031830126544",
+    "title": "电力设备及新能源：算电协同配套政策逐步完善，重视产业链长期机遇",
+    "industryName": "电池",
+    "orgSName": "太平洋",
+    "publishDate": "2026-10-03 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 481,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610031830126542",
+    "title": "电力设备及新能源：从装机、用电趋势看，核电是长期机会",
+    "industryName": "电池",
+    "orgSName": "太平洋",
+    "publishDate": "2026-10-03 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 443,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610021830112214",
+    "title": "计算机行业深度报告：大模型系列深度（一）：国产大模型竞争重心转向效率与生态，智谱以GLM全栈体系卡位第一梯队",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-02 00:00:00.000",
+    "attachPages": 19,
+    "attachSize": 1647,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610021830112192",
+    "title": "汽车行业点评报告：AIDC电力需求高增，柴发与内燃机迎确定性机遇",
+    "industryName": "汽车零部件",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-02 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 391,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610021830111958",
+    "title": "新能源+AI展望（第11期）：AIDC供电架构加速变革，储能升级为核心基础设施",
+    "industryName": "电池",
+    "orgSName": "太平洋",
+    "publishDate": "2026-10-02 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 489,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610021830111912",
+    "title": "电力设备及新能源：政策推动光伏供需向好，重视行业未来大拐点",
+    "industryName": "电池",
+    "orgSName": "太平洋",
+    "publishDate": "2026-10-02 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 485,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610021830111904",
+    "title": "汽车行业深度报告：从特斯拉Cybercab看EMB+SBW",
+    "industryName": "汽车零部件",
+    "orgSName": "太平洋",
+    "publishDate": "2026-10-02 00:00:00.000",
+    "attachPages": 45,
+    "attachSize": 3583,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202610021830111804",
+    "title": "跨境出海系列专题之七：新一轮行业景气上行与个股经营改善的共振周期",
+    "industryName": "互联网电商",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-02 00:00:00.000",
+    "attachPages": 29,
+    "attachSize": 1813,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610021830111802",
+    "title": "互联网行业2026年10月投资策略：AI投资进入需求验证期，关注高景气方向与新场景机会",
+    "industryName": "游戏Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-02 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 1085,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202610021830105411",
     "title": "制造行业：制造业全要素生产率研究报告（2026年）",
     "industryName": "专用设备",
