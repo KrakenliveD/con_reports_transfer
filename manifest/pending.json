@@ -1,5 +1,145 @@
 [
   {
+    "infoCode": "AP202610101830287987",
+    "title": "可控核聚变行业深度报告：聚变正当时，产业加速中",
+    "industryName": "专用设备",
+    "orgSName": "国元证券",
+    "publishDate": "2026-10-10 00:00:00.000",
+    "attachPages": 25,
+    "attachSize": 2676,
+    "ratingChange": 2
+  },
+  {
+    "infoCode": "AP202610091830276980",
+    "title": "机器人新材料研究之一：工业机器人走向产线应用带来材料新机遇",
+    "industryName": "工业金属",
+    "orgSName": "五矿证券",
+    "publishDate": "2026-10-10 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 1295,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610091830276978",
+    "title": "9月金融数据前瞻：信贷偏弱，社融或同比少增",
+    "industryName": "银行Ⅱ",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 11,
+    "attachSize": 616,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610091830273794",
+    "title": "传媒行业快评报告：9月发放209款版号维持高位，米哈游《源初之结》过审",
+    "industryName": "游戏Ⅱ",
+    "orgSName": "万联证券",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 450,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610091830273598",
+    "title": "有色金属行业点评报告：非农爆冷加息预期降温，贵金属迎喘息窗口",
+    "industryName": "贵金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 246,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610091830273141",
+    "title": "2026年氟硅新材料行业词条报告",
+    "industryName": "非金属材料Ⅱ",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 5587,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202610091830271648",
+    "title": "2026年中国AI制药行业深度研究：十年烧钱终见Ⅲ期，AI能否炼成下一款重磅新药？",
+    "industryName": "化学制药",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 30,
+    "attachSize": 3844,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610091830270088",
+    "title": "社会服务行业黄金周点评暨10月投资策略：假期出行符合预期，优选基本面质优龙头",
+    "industryName": "酒店餐饮",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 839,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610091830267706",
+    "title": "有色金属板块2026H1中报点评：\"资源为王\"兑现期：矿冶分化加剧",
+    "industryName": "工业金属",
+    "orgSName": "五矿证券",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 27,
+    "attachSize": 4265,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610091830257468",
+    "title": "农产品研究跟踪系列报告（222）：仔猪价格环比下跌，本轮厄尔尼诺海温异常值持续升高",
+    "industryName": "农业综合Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 26,
+    "attachSize": 2226,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610091830246074",
+    "title": "医药生物行业：厉兵秣马，拥抱顺风：从CRL、IQV、TMO看龙头CXO公司的AI观（及全球CXO2026中报业绩跟踪）",
+    "industryName": "生物制品",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 1647,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610091830246017",
+    "title": "有色金属行业报告：10月加息概率降低，有色有望反弹",
+    "industryName": "工业金属",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 520,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610091830246018",
+    "title": "证券行业报告：港股券业景气上行，跨境业绩对冲优势凸显",
+    "industryName": "证券Ⅱ",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 902,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610091830240764",
+    "title": "电力设备新能源2026年10月投资策略：海上风电加速修复，锂电龙头价值回归",
+    "industryName": "电池",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-09 00:00:00.000",
+    "attachPages": 23,
+    "attachSize": 3038,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202610091830233772",
     "title": "社会服务行业快评报告：赛事经济专项政策落地，体育消费扩容提速",
     "industryName": "体育Ⅱ",
@@ -178,85 +318,5 @@
     "attachPages": 4,
     "attachSize": 443,
     "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610021830112214",
-    "title": "计算机行业深度报告：大模型系列深度（一）：国产大模型竞争重心转向效率与生态，智谱以GLM全栈体系卡位第一梯队",
-    "industryName": "IT服务Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-10-02 00:00:00.000",
-    "attachPages": 19,
-    "attachSize": 1647,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610021830112192",
-    "title": "汽车行业点评报告：AIDC电力需求高增，柴发与内燃机迎确定性机遇",
-    "industryName": "汽车零部件",
-    "orgSName": "开源证券",
-    "publishDate": "2026-10-02 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 391,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610021830111958",
-    "title": "新能源+AI展望（第11期）：AIDC供电架构加速变革，储能升级为核心基础设施",
-    "industryName": "电池",
-    "orgSName": "太平洋",
-    "publishDate": "2026-10-02 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 489,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610021830111912",
-    "title": "电力设备及新能源：政策推动光伏供需向好，重视行业未来大拐点",
-    "industryName": "电池",
-    "orgSName": "太平洋",
-    "publishDate": "2026-10-02 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 485,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610021830111904",
-    "title": "汽车行业深度报告：从特斯拉Cybercab看EMB+SBW",
-    "industryName": "汽车零部件",
-    "orgSName": "太平洋",
-    "publishDate": "2026-10-02 00:00:00.000",
-    "attachPages": 45,
-    "attachSize": 3583,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610021830111804",
-    "title": "跨境出海系列专题之七：新一轮行业景气上行与个股经营改善的共振周期",
-    "industryName": "互联网电商",
-    "orgSName": "国信证券",
-    "publishDate": "2026-10-02 00:00:00.000",
-    "attachPages": 29,
-    "attachSize": 1813,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610021830111802",
-    "title": "互联网行业2026年10月投资策略：AI投资进入需求验证期，关注高景气方向与新场景机会",
-    "industryName": "游戏Ⅱ",
-    "orgSName": "国信证券",
-    "publishDate": "2026-10-02 00:00:00.000",
-    "attachPages": 14,
-    "attachSize": 1085,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610021830105411",
-    "title": "制造行业：制造业全要素生产率研究报告（2026年）",
-    "industryName": "专用设备",
-    "orgSName": "中国信通院",
-    "publishDate": "2026-10-02 00:00:00.000",
-    "attachPages": 26,
-    "attachSize": 1124,
-    "ratingChange": 4
   }
 ]
