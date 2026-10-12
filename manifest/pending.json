@@ -1,5 +1,275 @@
 [
   {
+    "infoCode": "AP202610121830340708",
+    "title": "AI应用系列：AI浪潮看内容与聚合平台价值几何？",
+    "industryName": "游戏Ⅱ",
+    "orgSName": "华鑫证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 44,
+    "attachSize": 1515,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830336205",
+    "title": "石化化工行业2026年10月投资策略：推荐受益能源价格上行及供给约束的细分方向",
+    "industryName": "炼化及贸易",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 28,
+    "attachSize": 1902,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335938",
+    "title": "电力设备与新能源行业研究：重视锂电、风电底部机会，BE买地再验SOFC需求高景气",
+    "industryName": "电池",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 1767,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335937",
+    "title": "非银行金融行业研究：稳市场信号强化，关注绩优权重股",
+    "industryName": "证券Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 1349,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335633",
+    "title": "机械行业研究：看好船舶、石墨烯导热垫片，关注工程机械",
+    "industryName": "工程机械",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 1736,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335632",
+    "title": "批发和零售贸易行业研究：假期出行增长稳健，关注低估值修复机会",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 9,
+    "attachSize": 1296,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335631",
+    "title": "互联网行业研究：Claude Haiku 5.5发布，GPT-6面向所有用户上线",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1144,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335603",
+    "title": "银行行业点评报告：银行视角看房贷贴息及央行政策工具加码",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 945,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335544",
+    "title": "煤炭行业研究：煤价破千，业绩向上",
+    "industryName": "煤炭开采",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 1396,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335538",
+    "title": "AI周观察：Anthropic发布Haiku5.5，8月中国智能手机市场继续下滑",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 1561,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202610111830335541",
+    "title": "公用事业行业研究：三维提升长协电价，电力板块再显超额",
+    "industryName": "电力",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 1495,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335539",
+    "title": "交通运输产业行业研究：油轮运价加速上行，快递空运旺季来临",
+    "industryName": "物流",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 1259,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335504",
+    "title": "通信行业研究：OpenAI年底ARR冲刺700亿美元，国产算力与光互连加速突破",
+    "industryName": "通信设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 1874,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335499",
+    "title": "机器人行业研究：具身智能写入新质生产力顶层文件，产业景气向上趋势持续",
+    "industryName": "专用设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 12,
+    "attachSize": 1373,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830335291",
+    "title": "2026年消费金融行业分析",
+    "industryName": "多元金融",
+    "orgSName": "联合资信评估",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 939,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610111830335289",
+    "title": "2026年半年度外资银行行业分析",
+    "industryName": "银行Ⅱ",
+    "orgSName": "联合资信评估",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 5,
+    "attachSize": 917,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610111830335288",
+    "title": "2026年半年度城市商业银行行业分析",
+    "industryName": "银行Ⅱ",
+    "orgSName": "联合资信评估",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 1015,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610111830335287",
+    "title": "2026年半年度商业银行行业分析",
+    "industryName": "银行Ⅱ",
+    "orgSName": "联合资信评估",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 813,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610111830335285",
+    "title": "2026年半年度农村金融机构行业分析",
+    "industryName": "多元金融",
+    "orgSName": "联合资信评估",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 811,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610111830334045",
+    "title": "食品饮料行业研究：行业景气趋势延续，推荐禀赋龙头底部配置",
+    "industryName": "非白酒",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 9,
+    "attachSize": 930,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830334044",
+    "title": "电力设备与新能源行业研究：液冷肌理系列深度（二）：热界面材料高热流密度时代，芯片近端热管理重估TIM材料价值",
+    "industryName": "其他电源设备Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 28,
+    "attachSize": 4764,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830333892",
+    "title": "耐用消费产业行业研究：地产回暖持续性决定内需高度，推荐增长型红利标的群",
+    "industryName": "消费电子",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 23,
+    "attachSize": 4309,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830333890",
+    "title": "计算机行业研究：应用数据爆发排头兵：AI漫剧",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 2434,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830333889",
+    "title": "石油化工行业研究：地缘风险溢价持续上升支撑价格震荡上行",
+    "industryName": "炼化及贸易",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 2255,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830333886",
+    "title": "家电行业研究：TV面板报价上调，MNT价格维持稳定",
+    "industryName": "白色家电",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1438,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830333883",
+    "title": "证券行业研究：公募基金运作管理办法迎系统性修订，支持权益产品发展，推动中长期资金入市",
+    "industryName": "证券Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 519,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610111830333056",
+    "title": "端侧AI周跟踪：个人Agent加速普及，终端应用需求增长驱动AI硬件升级",
+    "industryName": "消费电子",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-10-11 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 408,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202610101830315371",
     "title": "2026年新能源汽车用云母材料行业词条报告",
     "industryName": "汽车零部件",
