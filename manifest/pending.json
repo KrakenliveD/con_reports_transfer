@@ -1,5 +1,155 @@
 [
   {
+    "infoCode": "AP202610131830384623",
+    "title": "风机行业专题：国内两海景气共振，2027年风电设备盈利高增可期",
+    "industryName": "风电设备",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 29,
+    "attachSize": 1065,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610131830379840",
+    "title": "锂电10月洞察：旺季排产高景气延续，十五五促新技术发展",
+    "industryName": "电池",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 19,
+    "attachSize": 2782,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610121830373358",
+    "title": "电子材料行业2026年中报综述及展望：AI算力需求高增与国产替代加速共振，材料龙头业绩兑现加速",
+    "industryName": "化学制品",
+    "orgSName": "中银证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 22,
+    "attachSize": 1093,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610121830371373",
+    "title": "2025年中国柔直换流阀行业报告：特高压+海上风电+背靠背三驾马车驱动，2024-2030年市场达168亿元，国产化提速正当时",
+    "industryName": "风电设备",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 35,
+    "attachSize": 2870,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610121830371369",
+    "title": "智造硬核引擎——金属3D打印设备迈向规模化工业应用的突破路径与生态重构 头豹词条报告系列",
+    "industryName": "专用设备",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 21,
+    "attachSize": 5405,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610121830367172",
+    "title": "证券Ⅱ行业快评报告：公募基金运作管理制度系统性修订，权益类基金发展空间与运作灵活度双升",
+    "industryName": "证券Ⅱ",
+    "orgSName": "万联证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 456,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610121830367098",
+    "title": "旅游行业2026年国庆黄金周数据快评报告：国庆旅游客流稳增客单价续降，关注性价比与体验主线",
+    "industryName": "酒店餐饮",
+    "orgSName": "万联证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 451,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610121830362438",
+    "title": "商贸零售：26年国庆假期消费数据如何？",
+    "industryName": "一般零售",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 609,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610121830362436",
+    "title": "医药生物行业报告：Charles River研发日提到哪些AI观点？",
+    "industryName": "生物制品",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 16,
+    "attachSize": 2035,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610121830349791",
+    "title": "AI影视行业：模型能力与制片流程协同，产业化进入验证期",
+    "industryName": "影视院线",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 332,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610121830347290",
+    "title": "农产品研究跟踪系列报告（224）：超强厄尔尼诺已形成，农产品有望开启新一轮上行周期",
+    "industryName": "养殖业",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 26,
+    "attachSize": 2199,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610121830344954",
+    "title": "计算机行业点评报告：AI带来网络安全新变革",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 400,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610121830343905",
+    "title": "社会服务行业2026年中报综述：服务消费总体韧性较高，业绩表现出现分化",
+    "industryName": "酒店餐饮",
+    "orgSName": "中银证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 28,
+    "attachSize": 1184,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610121830343193",
+    "title": "耐用消费产业行业研究：迅销FY26Q4持续高增；林清轩中国香港首店开业",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 12,
+    "attachSize": 1636,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610121830343079",
+    "title": "综合Ⅱ行业点评报告：港股消费&应用：阜博集团收购Dreamesh完善AI视频生成版图，东方甄选重视自营产品建设",
+    "industryName": "综合Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-12 00:00:00.000",
+    "attachPages": 16,
+    "attachSize": 1663,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202610121830340708",
     "title": "AI应用系列：AI浪潮看内容与聚合平台价值几何？",
     "industryName": "游戏Ⅱ",
