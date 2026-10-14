@@ -1,5 +1,115 @@
 [
   {
+    "infoCode": "AP202610131830417291",
+    "title": "传媒行业2026年Q4投资策略：Agent迭代成熟，看好AI影视和AI营销",
+    "industryName": "游戏Ⅱ",
+    "orgSName": "西南证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 32,
+    "attachSize": 5101,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202610131830415443",
+    "title": "2025年中国种植牙行业概览：集采降价55%、单颗费用从1.5万降至7,000元，奥齿泰、登腾、士卓曼主导竞争，国产替代加速",
+    "industryName": "医疗器械",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 33,
+    "attachSize": 3256,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610131830415444",
+    "title": "光速智造者——从半导体微加工到医疗新应用的飞秒激光产业化突围 头豹词条报告系列",
+    "industryName": "半导体",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 21,
+    "attachSize": 5522,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610131830411850",
+    "title": "汽车行业快评报告：退税政策整体符合预期，不改出海景气趋势",
+    "industryName": "汽车零部件",
+    "orgSName": "万联证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 483,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610131830410918",
+    "title": "金融租赁行业2026年信用风险展望（终稿）",
+    "industryName": "多元金融",
+    "orgSName": "联合资信评估",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 1003,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610131830410643",
+    "title": "工程机械行业点评：9月挖机销量同比+14.4%，出口累计销量首超内销",
+    "industryName": "工程机械",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 5,
+    "attachSize": 1143,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610131830408629",
+    "title": "化工行业2026年中报综述：全行业归母净利润大幅增长，盈利能力提升",
+    "industryName": "化学制品",
+    "orgSName": "中银证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 20,
+    "attachSize": 1948,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610131830395372",
+    "title": "计算机行业点评报告：谷歌发布通用工作智能体Gemini Agent，大厂密集切入智能体赛道",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 273,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610131830390958",
+    "title": "通信行业点评报告：PH需求正提速",
+    "industryName": "通信设备",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 308,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610131830390576",
+    "title": "社会服务业行业研究2026中秋国庆假期消费总结：增长节奏平缓，总量符合预期",
+    "industryName": "旅游及景区",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 11,
+    "attachSize": 1483,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610131830390358",
+    "title": "国产算力链事件点评：华为发布昇腾960超节点，打造中国坚实算力底座",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "上海证券",
+    "publishDate": "2026-10-13 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 391,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202610131830384623",
     "title": "风机行业专题：国内两海景气共振，2027年风电设备盈利高增可期",
     "industryName": "风电设备",
