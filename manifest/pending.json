@@ -1,5 +1,65 @@
 [
   {
+    "infoCode": "AP202610161830621946",
+    "title": "2025年中国高端果蔬汁行业概览：高端果蔬汁市场2029年有望达175亿元，健康消费升级驱动行业进入增长新周期",
+    "industryName": "饮料乳品",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-10-16 00:00:00.000",
+    "attachPages": 23,
+    "attachSize": 2611,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610161830621923",
+    "title": "能量新基座——多维需求共振下电化学储能的产业化突破与场景纵深拓展 头豹词条报告系列",
+    "industryName": "电力",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-10-16 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 5679,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610161830621054",
+    "title": "高端女装行业深度：商品管理与客户资产决胜",
+    "industryName": "服装家纺",
+    "orgSName": "信达证券",
+    "publishDate": "2026-10-16 00:00:00.000",
+    "attachPages": 31,
+    "attachSize": 2209,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610161830609592",
+    "title": "商贸零售行业10月投资策略：双11大促全面开启，直接让利与AI提效重塑平台竞争",
+    "industryName": "一般零售",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-16 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 1044,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610161830573260",
+    "title": "银行9月金融数据点评：政府债发行提速，关注政策工具落地成效",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-16 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 722,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610161830573259",
+    "title": "半导体行业深度报告：AI互连系列报告（二）：围绕CPU-外设及GPU-GPU两条主线探索当前超节点的柜内互连",
+    "industryName": "半导体",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-16 00:00:00.000",
+    "attachPages": 21,
+    "attachSize": 2430,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202610151830535201",
     "title": "有色金属行业点评报告：美国9月CPI超预期，贵金属短期承压",
     "industryName": "工业金属",
@@ -768,225 +828,5 @@
     "attachPages": 10,
     "attachSize": 1295,
     "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610091830276978",
-    "title": "9月金融数据前瞻：信贷偏弱，社融或同比少增",
-    "industryName": "银行Ⅱ",
-    "orgSName": "中邮证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 11,
-    "attachSize": 616,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610091830273794",
-    "title": "传媒行业快评报告：9月发放209款版号维持高位，米哈游《源初之结》过审",
-    "industryName": "游戏Ⅱ",
-    "orgSName": "万联证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 450,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610091830273598",
-    "title": "有色金属行业点评报告：非农爆冷加息预期降温，贵金属迎喘息窗口",
-    "industryName": "贵金属",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 246,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610091830273141",
-    "title": "2026年氟硅新材料行业词条报告",
-    "industryName": "非金属材料Ⅱ",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 17,
-    "attachSize": 5587,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610091830271648",
-    "title": "2026年中国AI制药行业深度研究：十年烧钱终见Ⅲ期，AI能否炼成下一款重磅新药？",
-    "industryName": "化学制药",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 30,
-    "attachSize": 3844,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610091830270088",
-    "title": "社会服务行业黄金周点评暨10月投资策略：假期出行符合预期，优选基本面质优龙头",
-    "industryName": "酒店餐饮",
-    "orgSName": "国信证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 14,
-    "attachSize": 839,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610091830267706",
-    "title": "有色金属板块2026H1中报点评：\"资源为王\"兑现期：矿冶分化加剧",
-    "industryName": "工业金属",
-    "orgSName": "五矿证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 27,
-    "attachSize": 4265,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610091830257468",
-    "title": "农产品研究跟踪系列报告（222）：仔猪价格环比下跌，本轮厄尔尼诺海温异常值持续升高",
-    "industryName": "农业综合Ⅱ",
-    "orgSName": "国信证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 26,
-    "attachSize": 2226,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610091830246074",
-    "title": "医药生物行业：厉兵秣马，拥抱顺风：从CRL、IQV、TMO看龙头CXO公司的AI观（及全球CXO2026中报业绩跟踪）",
-    "industryName": "生物制品",
-    "orgSName": "中邮证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 14,
-    "attachSize": 1647,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610091830246017",
-    "title": "有色金属行业报告：10月加息概率降低，有色有望反弹",
-    "industryName": "工业金属",
-    "orgSName": "中邮证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 520,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610091830246018",
-    "title": "证券行业报告：港股券业景气上行，跨境业绩对冲优势凸显",
-    "industryName": "证券Ⅱ",
-    "orgSName": "中邮证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 13,
-    "attachSize": 902,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610091830240764",
-    "title": "电力设备新能源2026年10月投资策略：海上风电加速修复，锂电龙头价值回归",
-    "industryName": "电池",
-    "orgSName": "国信证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 23,
-    "attachSize": 3038,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610091830233772",
-    "title": "社会服务行业快评报告：赛事经济专项政策落地，体育消费扩容提速",
-    "industryName": "体育Ⅱ",
-    "orgSName": "万联证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 496,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610091830232895",
-    "title": "电子行业点评报告：三星电机再签长协，国内MLCC原厂Q3涨价有望兑现",
-    "industryName": "元件",
-    "orgSName": "开源证券",
-    "publishDate": "2026-10-09 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 312,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610081830217271",
-    "title": "2026年锂盐行业词条报告",
-    "industryName": "化学原料",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-08 00:00:00.000",
-    "attachPages": 23,
-    "attachSize": 5906,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610081830217221",
-    "title": "2026年中国民族药产业探索及跟踪：300亿市场迈向标准化与全国化，医药如何突破区域产业边界？（精华版）",
-    "industryName": "医药商业",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-08 00:00:00.000",
-    "attachPages": 17,
-    "attachSize": 3446,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610081830214839",
-    "title": "商业航天：3D打印重塑航天制造范式——增材制造篇",
-    "industryName": "航天装备Ⅱ",
-    "orgSName": "金元证券",
-    "publishDate": "2026-10-08 00:00:00.000",
-    "attachPages": 39,
-    "attachSize": 4224,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610081830214474",
-    "title": "AI+影视：从漫剧到长剧，内容生态将如何演变",
-    "industryName": "数字媒体",
-    "orgSName": "金元证券",
-    "publishDate": "2026-10-08 00:00:00.000",
-    "attachPages": 30,
-    "attachSize": 2321,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610081830213026",
-    "title": "农产品研究跟踪系列报告（223）：假期猪鸡价格底部震荡，原糖价格加速上行",
-    "industryName": "养殖业",
-    "orgSName": "国信证券",
-    "publishDate": "2026-10-08 00:00:00.000",
-    "attachPages": 26,
-    "attachSize": 2206,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610081830209128",
-    "title": "轻工制造行业新型烟草：BAT更新长期规划，多元矩阵铸造无烟世界",
-    "industryName": "家居用品",
-    "orgSName": "信达证券",
-    "publishDate": "2026-10-08 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 534,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610081830206632",
-    "title": "通信行业点评报告：重视PH链投资机遇",
-    "industryName": "通信设备",
-    "orgSName": "开源证券",
-    "publishDate": "2026-10-08 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 404,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610071830191027",
-    "title": "房地产行业点评报告：三部门推出居民购房贴息政策，助力行业止跌回稳",
-    "industryName": "房地产开发",
-    "orgSName": "开源证券",
-    "publishDate": "2026-10-08 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 287,
-    "ratingChange": 3
   }
 ]
