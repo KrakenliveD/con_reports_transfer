@@ -1,5 +1,175 @@
 [
   {
+    "infoCode": "AP202610181830662211",
+    "title": "非银行金融行业研究：保险快返产品监管优化行业格局，券商板块抗跌凸显韧性",
+    "industryName": "证券Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 9,
+    "attachSize": 1324,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830662197",
+    "title": "批发和零售贸易行业研究：消费板块震荡调整，关注低估值修复机会",
+    "industryName": "互联网电商",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 9,
+    "attachSize": 1263,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830662198",
+    "title": "电子行业研究：多家AI覆铜板/PCB公司Q3业绩超预期，台积电Q4指引乐观",
+    "industryName": "半导体",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1511,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830662209",
+    "title": "耐用消费产业行业研究：361度Q3流水稳健增长，维持全年指引",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 11,
+    "attachSize": 1193,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830662173",
+    "title": "交通运输产业行业研究：放松制裁传言扰动油轮股价，快递旺季涨价持续",
+    "industryName": "物流",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 2112,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830661152",
+    "title": "房地产行业点评报告：七城出台商品房预售新政，因城施策灵活度较高",
+    "industryName": "房地产开发",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 722,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830661084",
+    "title": "通信行业研究：台积电业绩超预期，OCP大会顺利召开",
+    "industryName": "通信设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 12,
+    "attachSize": 1126,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830661080",
+    "title": "石油化工行业研究：伊朗及胡塞加快对商业船只和能源基础设施打击",
+    "industryName": "炼化及贸易",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 2146,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830661083",
+    "title": "计算机行业研究：海外模型与CSP更新",
+    "industryName": "软件开发",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 961,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830661081",
+    "title": "耐用消费产业行业研究：OCP液冷+ iPhone duo暴量利好裕同，两轮车Q3首增速转正",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 4305,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830661075",
+    "title": "医药健康行业研究：ESMO大会临近，关注国产重磅新药数据读出",
+    "industryName": "化学制药",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 2188,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830661049",
+    "title": "互联网行业研究：AI影视产业趋势向好，持续看好",
+    "industryName": "影视院线",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1165,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830661048",
+    "title": "从TCT深圳展看消费级3D打印：耗材涨价验证景气，设备与AI共驱破圈",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 739,
+    "ratingChange": 2
+  },
+  {
+    "infoCode": "AP202610181830660621",
+    "title": "医药生物行业点评报告：ARO-MAPTⅠ/Ⅱa中期数据，皮下注射敲低Tau蛋白",
+    "industryName": "生物制品",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 1238,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830660619",
+    "title": "银行：理财观察之“募集抢跑”-季末回表显著弱于季节性的几点原因",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 5,
+    "attachSize": 525,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830660382",
+    "title": "保险Ⅱ：偿付能力约束下险资权益减持影响测算-险资权益被动减持压力整体可控",
+    "industryName": "保险Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 368,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610181830659245",
+    "title": "公用环保2026年10月投资策略：广东江苏月竞电价环比提高5分+/kWh，LNG出厂价格指数涨至6434元/吨",
+    "industryName": "电力",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-18 00:00:00.000",
+    "attachPages": 27,
+    "attachSize": 3848,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202610171830643297",
     "title": "有色金属行业点评报告：IMF上调2026年亚太增长预期，AI需求与区内贸易韧性托底",
     "industryName": "工业金属",
@@ -808,55 +978,5 @@
     "attachPages": 2,
     "attachSize": 408,
     "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610101830315371",
-    "title": "2026年新能源汽车用云母材料行业词条报告",
-    "industryName": "汽车零部件",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-10 00:00:00.000",
-    "attachPages": 18,
-    "attachSize": 5599,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610101830315370",
-    "title": "2026年中国小核酸药物黄金时代前夜：瑞博生物斩获44亿美元合作，浩博医药决战Ⅲ期，中国药企如何冲刺80亿市场？（精华版）",
-    "industryName": "医药商业",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-10 00:00:00.000",
-    "attachPages": 30,
-    "attachSize": 4415,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610101830309912",
-    "title": "2026年国庆旅游数据点评：出行总量平稳，长线游需求深度释放，反向游亮点频出",
-    "industryName": "旅游及景区",
-    "orgSName": "中银证券",
-    "publishDate": "2026-10-10 00:00:00.000",
-    "attachPages": 7,
-    "attachSize": 607,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610101830287987",
-    "title": "可控核聚变行业深度报告：聚变正当时，产业加速中",
-    "industryName": "专用设备",
-    "orgSName": "国元证券",
-    "publishDate": "2026-10-10 00:00:00.000",
-    "attachPages": 25,
-    "attachSize": 2676,
-    "ratingChange": 2
-  },
-  {
-    "infoCode": "AP202610091830276980",
-    "title": "机器人新材料研究之一：工业机器人走向产线应用带来材料新机遇",
-    "industryName": "工业金属",
-    "orgSName": "五矿证券",
-    "publishDate": "2026-10-10 00:00:00.000",
-    "attachPages": 10,
-    "attachSize": 1295,
-    "ratingChange": 4
   }
 ]
