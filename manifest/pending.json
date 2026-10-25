@@ -1,5 +1,235 @@
 [
   {
+    "infoCode": "AP202610251830896644",
+    "title": "物理AI行业深度报告：技术路径基本成熟，受益于工业智能化及自动化需求",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 1970,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830896609",
+    "title": "农产品历史复盘专题：美元周期对农产品价格的影响机制与历史复盘",
+    "industryName": "养殖业",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 47,
+    "attachSize": 7094,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830896344",
+    "title": "券商财富管理专题报告：从卖方代销到买方投顾，数智化赋能行业发展新阶段",
+    "industryName": "证券Ⅱ",
+    "orgSName": "中航证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 20,
+    "attachSize": 5555,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830896179",
+    "title": "人工智能行业专题（24）：AI短剧：注意力经济新兴市场，AI赋能工业化生产",
+    "industryName": "计算机设备",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 32,
+    "attachSize": 2876,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830895833",
+    "title": "耐用消费产业行业研究：新澳股份Q3业绩维持高增，乐普医疗童颜针去库存基本完毕",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 12,
+    "attachSize": 1163,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830895509",
+    "title": "AI周观察：MiniMax和Kimi更新模型，Bloom Energy继续推进现场发电",
+    "industryName": "软件开发",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 1262,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202610251830895422",
+    "title": "证券行业研究：母基金管理规定征求意见，进一步完善私募“1+N+X”体系",
+    "industryName": "证券Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 501,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830895419",
+    "title": "电子行业研究：物理AI端侧平台迎升级窗口，TPCA会议AI PCB链厂商展望乐观",
+    "industryName": "半导体",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 9,
+    "attachSize": 1604,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830895418",
+    "title": "机械行业研究：看好船舶、机器人，关注海工装备",
+    "industryName": "工程机械",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 1760,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830895411",
+    "title": "机器人行业研究：Tesla弗里蒙特工厂开启生产，OpenAI入局人形机器人",
+    "industryName": "专用设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 11,
+    "attachSize": 1329,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830892762",
+    "title": "电子行业点评报告：海外算力周跟踪：定价锚转向回报验证，PCB产业链有望持续受益",
+    "industryName": "元件",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 439,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830892528",
+    "title": "公用事业行业研究：电量高基数影响将结束，电价上涨板块困境反转",
+    "industryName": "电力",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 2491,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830892380",
+    "title": "计算机行业研究：物理AI：此时恰好",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 3568,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830892342",
+    "title": "石油化工行业研究：市场预期美伊再次爆发战争冲突风险急剧上升",
+    "industryName": "炼化及贸易",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 2156,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830892341",
+    "title": "煤炭行业研究：长协新规稳定预期，供给偏紧支撑煤价",
+    "industryName": "煤炭开采",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 1707,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830890882",
+    "title": "传媒行业10月投资策略：AI应用商业化加速，内容创新打开成长空间",
+    "industryName": "游戏Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 29,
+    "attachSize": 3292,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830890744",
+    "title": "食品饮料行业研究：持续推荐配置稳健龙头，业绩&经营禀赋均可观",
+    "industryName": "休闲食品",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 9,
+    "attachSize": 1218,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830890737",
+    "title": "批发和零售贸易行业研究：社零回暖超预期，关注零售板块防御与修复机会",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 947,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830890596",
+    "title": "生猪养殖3Q2026存栏数据跟踪：能繁母猪去化超预期，猪价拐点有望出现",
+    "industryName": "养殖业",
+    "orgSName": "万联证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 563,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830885234",
+    "title": "煤炭行业深度报告：国内供给收缩难以弥补，炼焦煤供需格局由松转紧",
+    "industryName": "煤炭开采",
+    "orgSName": "开源证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 27,
+    "attachSize": 1371,
+    "ratingChange": 2
+  },
+  {
+    "infoCode": "AP202610251830885110",
+    "title": "医药行业研究：海外政策扰动有限，创新药出海高景气有望延续",
+    "industryName": "化学制药",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 2056,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830885112",
+    "title": "家电行业研究：家电社零连续两个月正增长，重视动销修复与板块配置机会",
+    "industryName": "其他家电Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1172,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610251830881661",
+    "title": "中小盘观察之传媒行业：影视院线量比放大到1.44，票房与内容供给谁先兑现",
+    "industryName": "影视院线",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-10-25 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 685,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202610241830878361",
     "title": "中小盘观察之出版行业：中报未兑现的领涨，估值重估到了哪一步",
     "industryName": "出版",
@@ -1018,35 +1248,5 @@
     "attachPages": 27,
     "attachSize": 3848,
     "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610171830643297",
-    "title": "有色金属行业点评报告：IMF上调2026年亚太增长预期，AI需求与区内贸易韧性托底",
-    "industryName": "工业金属",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-10-17 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 251,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610171830643267",
-    "title": "医疗设备以旧换新专题系列八：9月数据同比+16.1%，1-9月同比-4%",
-    "industryName": "医疗器械",
-    "orgSName": "西南证券",
-    "publishDate": "2026-10-17 00:00:00.000",
-    "attachPages": 23,
-    "attachSize": 2141,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610171830643266",
-    "title": "CXO行业2026Q3数据跟踪：AI制药提升估值弹性，地缘风险阶段性缓释",
-    "industryName": "化学制药",
-    "orgSName": "西南证券",
-    "publishDate": "2026-10-17 00:00:00.000",
-    "attachPages": 22,
-    "attachSize": 2604,
-    "ratingChange": ""
   }
 ]
