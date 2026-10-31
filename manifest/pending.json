@@ -1,5 +1,75 @@
 [
   {
+    "infoCode": "AP202610301831250687",
+    "title": "电力设备及新能源：《新型电池产业发展“十五五”规划》点评-电池产业首份国家级规划，行业规模稳步增长至2030年",
+    "industryName": "其他电源设备Ⅱ",
+    "orgSName": "山西证券",
+    "publishDate": "2026-10-30 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 406,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610301831248399",
+    "title": "2025年中国网络存储行业洞察：数据洪流驱动网络存储升级，全球NAS市场预计2027年达95.23亿美元",
+    "industryName": "通信服务",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-10-30 00:00:00.000",
+    "attachPages": 26,
+    "attachSize": 2596,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202610301831243554",
+    "title": "传媒行业快评报告：10月发放195款版号维持高位，散爆网络《少女前线》IP系列作品过审",
+    "industryName": "游戏Ⅱ",
+    "orgSName": "万联证券",
+    "publishDate": "2026-10-30 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 457,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610301831237534",
+    "title": "医药健康行业研究：出海大单品一：赛沃替尼迎价值拐点，27年开启全球商业化",
+    "industryName": "化学制药",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-30 00:00:00.000",
+    "attachPages": 25,
+    "attachSize": 4940,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610301831220598",
+    "title": "科技行业：亚马逊3Q26业绩：AWS未来两年增速超40%，资本开支高企致现金流恶化",
+    "industryName": "软件开发",
+    "orgSName": "浦银国际证券",
+    "publishDate": "2026-10-30 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 645,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202610301831218518",
+    "title": "科技行业之PCB ESG专题报告：从末端治理到全链闭环，PCB绿色转型进入价值兑现期",
+    "industryName": "元件",
+    "orgSName": "上海证券",
+    "publishDate": "2026-10-30 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 2111,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610301831217416",
+    "title": "物理AI行业研究：物理AI中期高壁垒+高价值量环节——触觉＆灵巧手",
+    "industryName": "专用设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-10-30 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 2836,
+    "ratingChange": 4
+  },
+  {
     "infoCode": "AP202610291831189355",
     "title": "食品饮料行业深度报告：2026Q3基金食品饮料持仓分析：基金持仓触底回升，白酒获小幅加配",
     "industryName": "休闲食品",
@@ -777,126 +847,6 @@
     "publishDate": "2026-10-24 00:00:00.000",
     "attachPages": 2,
     "attachSize": 574,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610231830849388",
-    "title": "2025年中国工业无人机行业（一）151.8亿到1710亿的六年跃迁，CAGR33.79%，上游核心零部件国产化提速",
-    "industryName": "专用设备",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 29,
-    "attachSize": 5730,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610231830849216",
-    "title": "端侧智能产业发展报告（2026年）",
-    "industryName": "软件开发",
-    "orgSName": "中国信通院",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 67,
-    "attachSize": 1610,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610231830846801",
-    "title": "煤炭进口数据拆解：26年9月：进口煤单月同比降幅扩大，进口均价上涨",
-    "industryName": "煤炭开采",
-    "orgSName": "山西证券",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 10,
-    "attachSize": 1414,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610231830845521",
-    "title": "商贸零售行业快评报告：商品零售迈向质的升级，品质化、智能化成重要方向",
-    "industryName": "一般零售",
-    "orgSName": "万联证券",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 2,
-    "attachSize": 453,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610231830844043",
-    "title": "新消费行业深度报告：掘金服务消费，布局潜力赛道",
-    "industryName": "消费电子",
-    "orgSName": "国元证券",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 25,
-    "attachSize": 1892,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610231830839854",
-    "title": "医药行业：ESMO 2026前瞻：完整数据落地，看获益纵深",
-    "industryName": "化学制药",
-    "orgSName": "浦银国际证券",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 7,
-    "attachSize": 1124,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610231830837173",
-    "title": "人工智能系列（二）：AI驱动下的电子行业新周期",
-    "industryName": "IT服务Ⅱ",
-    "orgSName": "金圆统一证券",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 35,
-    "attachSize": 4082,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610231830834507",
-    "title": "先进封装机械行业研究：CoWoS需求孕育国产替代机遇，关注核心增量环节设备企业",
-    "industryName": "通用设备",
-    "orgSName": "国金证券",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 39,
-    "attachSize": 5596,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610231830834027",
-    "title": "动力电池系列一固态电池：中试产能集中落地，产业发展进入关键窗口期",
-    "industryName": "电池",
-    "orgSName": "西南证券",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 71,
-    "attachSize": 5046,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610231830818930",
-    "title": "净水器行业增长转向存量换新与产品升级驱动，关注北交所新股远大健科滤芯业务耗材增量",
-    "industryName": "通用设备",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 22,
-    "attachSize": 1561,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610231830818405",
-    "title": "2026AI原生基础设施白皮书：面向Token产效提升与价值创造的代理式AI基础设施新范式",
-    "industryName": "IT服务Ⅱ",
-    "orgSName": "甲子光年智库",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 52,
-    "attachSize": 15911,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610231830818292",
-    "title": "黄金珠宝行业专题报告：回归实证，论金价波动与板块股价联动规律",
-    "industryName": "饰品",
-    "orgSName": "信达证券",
-    "publishDate": "2026-10-23 00:00:00.000",
-    "attachPages": 24,
-    "attachSize": 3305,
     "ratingChange": 3
   }
 ]
