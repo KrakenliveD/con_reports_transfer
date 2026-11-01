@@ -1,5 +1,25 @@
 [
   {
+    "infoCode": "AP202610311831278175",
+    "title": "新消费行业深度报告：他山之石：从美日服务消费经验看中国机遇",
+    "industryName": "一般零售",
+    "orgSName": "国元证券",
+    "publishDate": "2026-10-31 00:00:00.000",
+    "attachPages": 32,
+    "attachSize": 2214,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202610311831269518",
+    "title": "中小盘观察之石油石化行业：股息成为分水岭，盈利质量决定修复的先后",
+    "industryName": "炼化及贸易",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-10-31 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 674,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202610301831250687",
     "title": "电力设备及新能源：《新型电池产业发展“十五五”规划》点评-电池产业首份国家级规划，行业规模稳步增长至2030年",
     "industryName": "其他电源设备Ⅱ",
@@ -817,36 +837,6 @@
     "publishDate": "2026-10-25 00:00:00.000",
     "attachPages": 15,
     "attachSize": 685,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610241830878361",
-    "title": "中小盘观察之出版行业：中报未兑现的领涨，估值重估到了哪一步",
-    "industryName": "出版",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-10-24 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 669,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610241830870258",
-    "title": "保险行业9月保费：寿险业务增速拐点向上，产险增长相对偏弱",
-    "industryName": "保险Ⅱ",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-10-24 00:00:00.000",
-    "attachPages": 5,
-    "attachSize": 563,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610241830854542",
-    "title": "机械设备行业点评报告：模型端迭代+物理AI赋能，看好人形机器人产业应用1-10放量",
-    "industryName": "通用设备",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-10-24 00:00:00.000",
-    "attachPages": 2,
-    "attachSize": 574,
     "ratingChange": 3
   }
 ]
