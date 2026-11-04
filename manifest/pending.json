@@ -1,5 +1,115 @@
 [
   {
+    "infoCode": "AP202611041831392326",
+    "title": "耐用消费产业行业研究：AI眼镜点评：全彩化与AI交互共振，镜片与渠道有望提前受益",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-04 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 650,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611041831384753",
+    "title": "半导体行业深度报告：溅射靶材行业深度：半导体PVD工艺核心耗材，国产化进程加速",
+    "industryName": "半导体",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-04 00:00:00.000",
+    "attachPages": 23,
+    "attachSize": 1468,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611031831378260",
+    "title": "2025年中国生物创新药市场跟踪报告：呋喹替尼6月市场动向：海外销售同比+1825%，武田11.3亿美元授权下国产VEGFR抑制剂全球放量路径研判",
+    "industryName": "医药商业",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-11-03 00:00:00.000",
+    "attachPages": 19,
+    "attachSize": 3143,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611031831376700",
+    "title": "通信行业专题研究点评：上海发力卫星互联网之城，我国卫星互联网行业有望加速发展",
+    "industryName": "通信设备",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-03 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 239,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611031831376686",
+    "title": "计算机行业点评报告：国产模型密集迭代，个人Agent有望步入加速阶段",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-03 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 272,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611031831376623",
+    "title": "有色金属行业点评报告：通胀回升强化加息预期，风险资产共振压制金价",
+    "industryName": "贵金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-03 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 257,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611031831366774",
+    "title": "电力设备新能源行业点评：电新板块高频数据跟踪",
+    "industryName": "其他电源设备Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-03 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 129,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611031831364391",
+    "title": "特斯拉跟踪报告：汽车订单回暖，智能驾驶付费提速",
+    "industryName": "汽车零部件",
+    "orgSName": "爱建证券",
+    "publishDate": "2026-11-03 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 1180,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611031831363971",
+    "title": "海外银行借鉴系列：日本银行估值演绎：风险出清、盈利承压与ROE重估",
+    "industryName": "银行Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-03 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 1246,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611031831363627",
+    "title": "汽车行业点评报告：谷歌发布Genie 4世界模型，重视谷歌-波士顿动力产业链",
+    "industryName": "汽车零部件",
+    "orgSName": "华鑫证券",
+    "publishDate": "2026-11-03 00:00:00.000",
+    "attachPages": 5,
+    "attachSize": 436,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611031831359844",
+    "title": "10月金融数据前瞻：信贷需求偏弱，直接融资支撑",
+    "industryName": "银行Ⅱ",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-11-03 00:00:00.000",
+    "attachPages": 11,
+    "attachSize": 612,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611031831351094",
     "title": "电子：存储系统及升级服务驱动，泛林集团业绩快速增长",
     "industryName": "元件",
@@ -728,115 +838,5 @@
     "attachPages": 22,
     "attachSize": 2977,
     "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610271831040891",
-    "title": "2025年中国过敏性疾病药物行业系列报告（一）：2.5亿患者、567.7亿元AR药物市场、生物制剂CAGR43%，司普奇拜单抗全球首个获批与医保覆盖双轮驱动治疗升级",
-    "industryName": "医药商业",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 21,
-    "attachSize": 2092,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610271831037189",
-    "title": "电力设备：国内储能套利收益回升，欧洲高电价向终端传导",
-    "industryName": "其他电源设备Ⅱ",
-    "orgSName": "华安证券",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 49,
-    "attachSize": 3509,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610271831034847",
-    "title": "轻工制造行业快评报告：酒饮料茶制造业利润降幅明显收窄，家具、文娱用品制造业利润端仍承压",
-    "industryName": "家居用品",
-    "orgSName": "万联证券",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 2,
-    "attachSize": 426,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610271831024954",
-    "title": "电子行业研究：AI走进现实：Physical AI驱动端侧硬件进入升级周期",
-    "industryName": "元件",
-    "orgSName": "国金证券",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 17,
-    "attachSize": 1936,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610271831017623",
-    "title": "国际酒店龙头20年：不断进击的市值与商业模式的价值重估",
-    "industryName": "专业服务",
-    "orgSName": "国信证券",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 49,
-    "attachSize": 2715,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610271831016274",
-    "title": "航运港口行业研究：中东冲突加剧，15岁VLCC船价超过新船",
-    "industryName": "航运港口",
-    "orgSName": "国金证券",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 23,
-    "attachSize": 3749,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610271831008899",
-    "title": "银行行业点评报告：银行负债压力缓解信号与跨年配置思考",
-    "industryName": "银行Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 14,
-    "attachSize": 1216,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610271831007554",
-    "title": "产业研究报告：新质生产力之重点产业链系列（三）：人形机器人发展及广东布局",
-    "industryName": "专用设备",
-    "orgSName": "国信证券",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 40,
-    "attachSize": 1317,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610271831006844",
-    "title": "轻工制造行业出口链：2026M9漂白纸及纸板/弹簧床垫均+40%，卫浴跌幅进一步收窄",
-    "industryName": "家居用品",
-    "orgSName": "太平洋",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 800,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610271830975810",
-    "title": "传媒行业Anthropic招股说明书解读：2026H1营收163亿美元，披露6570亿美元算力合同",
-    "industryName": "计算机设备",
-    "orgSName": "国信证券",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 17,
-    "attachSize": 1286,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610271830963084",
-    "title": "AI影视：大模型C端最快规模化应用场景",
-    "industryName": "数字媒体",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-10-27 00:00:00.000",
-    "attachPages": 33,
-    "attachSize": 2014,
-    "ratingChange": ""
   }
 ]
