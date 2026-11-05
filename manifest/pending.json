@@ -1,5 +1,105 @@
 [
   {
+    "infoCode": "AP202611051831433330",
+    "title": "证券行业研究：政策组合拳推出，释放稳市场信号",
+    "industryName": "证券Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-05 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 487,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611051831433307",
+    "title": "伊拉克石油专题：原油产量快速增长带来区域性机会",
+    "industryName": "炼化及贸易",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-05 00:00:00.000",
+    "attachPages": 20,
+    "attachSize": 2758,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611041831424701",
+    "title": "医药行业2026Q1-Q3总结报告：CXO、科研服务及创新药板块引领业绩增长",
+    "industryName": "化学制药",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-05 00:00:00.000",
+    "attachPages": 52,
+    "attachSize": 4253,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611041831424006",
+    "title": "医药行业AI4S（三）：因果数据——机制理解瓶颈突破口，AI+生物数据新基建正崛起",
+    "industryName": "化学制药",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-11-05 00:00:00.000",
+    "attachPages": 37,
+    "attachSize": 1946,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611041831419030",
+    "title": "汽车行业销量数据跟踪报告：10月增长仍看出口，新品支撑交付回升",
+    "industryName": "汽车零部件",
+    "orgSName": "爱建证券",
+    "publishDate": "2026-11-04 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 1654,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611041831417486",
+    "title": "2025年中国生物细胞资源产业链洞察报告（一）：细胞治疗最成熟产业化环节，三梯队竞争格局与技术演进路径研判",
+    "industryName": "医药商业",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-11-04 00:00:00.000",
+    "attachPages": 20,
+    "attachSize": 1946,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611041831413603",
+    "title": "风电26Q3业绩总结：经营承压，关注深远海及欧洲风电机遇",
+    "industryName": "风电设备",
+    "orgSName": "五矿证券",
+    "publishDate": "2026-11-04 00:00:00.000",
+    "attachPages": 11,
+    "attachSize": 1709,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611041831413595",
+    "title": "2026Q3锂电财报点评：资本开支提速，关注需求节奏的变化",
+    "industryName": "电池",
+    "orgSName": "五矿证券",
+    "publishDate": "2026-11-04 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 2663,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611041831396770",
+    "title": "26Q3风电板块业绩总结：板块盈利筑底，招标量价指引27年确定性拐点",
+    "industryName": "风电设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-04 00:00:00.000",
+    "attachPages": 25,
+    "attachSize": 3160,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611041831395237",
+    "title": "医药行业专题报告：26Q3医药持仓占比提升显著，机构大幅加仓CXO",
+    "industryName": "生物制品",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-04 00:00:00.000",
+    "attachPages": 34,
+    "attachSize": 3677,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611041831392326",
     "title": "耐用消费产业行业研究：AI眼镜点评：全彩化与AI交互共振，镜片与渠道有望提前受益",
     "industryName": "一般零售",
@@ -717,126 +817,6 @@
     "publishDate": "2026-10-29 00:00:00.000",
     "attachPages": 17,
     "attachSize": 748,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610281831128377",
-    "title": "2025年中国妇科更年期用药行业概览：非激素新药获批+中西医井进+基层下沉，449.6亿市场加速照亮女性的更年期",
-    "industryName": "医药商业",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 34,
-    "attachSize": 2512,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610281831128310",
-    "title": "2026年中国GEO营销实践与合规发展报告",
-    "industryName": "广告营销",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 70,
-    "attachSize": 3267,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610281831126184",
-    "title": "计算机行业点评报告：Anthropic递交S-1招股书启动IPO，模型与产品双轮驱动兑现盈利拐点",
-    "industryName": "IT服务Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 10,
-    "attachSize": 858,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610281831124153",
-    "title": "Robotaxi行业专题点评报告：Robotaxi从技术验证走向运营验证，商业化破冰进入制度红利期",
-    "industryName": "汽车零部件",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 272,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610281831121089",
-    "title": "数采专题（二）：数采服务：采数千端，炼数一炉，闭环致远",
-    "industryName": "专用设备",
-    "orgSName": "国金证券",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 27,
-    "attachSize": 4216,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610281831120122",
-    "title": "中国的人工智能治理：理念、实践和意义",
-    "industryName": "计算机设备",
-    "orgSName": "中国信通院",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 60,
-    "attachSize": 18308,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610281831119938",
-    "title": "2026人工智能产业十大关键词",
-    "industryName": "软件开发",
-    "orgSName": "中国信通院",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 39,
-    "attachSize": 21672,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610281831091850",
-    "title": "Anthropic招股书解读：大模型巨头如何率先跑通盈利闭环？",
-    "industryName": "软件开发",
-    "orgSName": "浦银国际证券",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 1309,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610281831080428",
-    "title": "医药健康行业研究：AI制药行业深度报告（一）：从工具到引擎，加速卡位催生湿实验机遇",
-    "industryName": "化学制药",
-    "orgSName": "国金证券",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 16,
-    "attachSize": 3009,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610281831074505",
-    "title": "医药生物行业动态点评：卫生健康领域迎新部署，完善防治康管全链条服务",
-    "industryName": "医药商业",
-    "orgSName": "上海证券",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 383,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610281831055954",
-    "title": "房地产行业：销售环比改善，核心城市土拍支撑市场——9月统计局房地产数据追踪",
-    "industryName": "房地产开发",
-    "orgSName": "金融街证券",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 1337,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610281831055945",
-    "title": "医药生物行业：业绩加速兑现，多维压制并存，待催化破局-基于买方视角的创新药行业投资价值分析",
-    "industryName": "生物制品",
-    "orgSName": "金融街证券",
-    "publishDate": "2026-10-28 00:00:00.000",
-    "attachPages": 22,
-    "attachSize": 2977,
     "ratingChange": 3
   }
 ]
