@@ -1,5 +1,115 @@
 [
   {
+    "infoCode": "AP202611061831502698",
+    "title": "2025年中国适老食品行业概览：2029年市场规模望达1.46万亿元，精准营养升级驱动行业集中度提升",
+    "industryName": "休闲食品",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 34,
+    "attachSize": 2514,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611061831502658",
+    "title": "社会服务行业2026Q3业绩综述报告：增收不增利延续，酒店餐饮逆势领跑",
+    "industryName": "酒店餐饮",
+    "orgSName": "万联证券",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 1023,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611061831502657",
+    "title": "农林牧渔行业3Q2026业绩综述：猪价筑底亏损延续，去化提速拐点将现",
+    "industryName": "农业综合Ⅱ",
+    "orgSName": "万联证券",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 1435,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611061831502213",
+    "title": "电力行业2027年度策略：电改深化电价磨底蓄势，特高压建设景气延续",
+    "industryName": "电力",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 59,
+    "attachSize": 2780,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611061831499438",
+    "title": "公募基金医药持仓2026Q3：医药仓位从冰点回升，医疗研发外包成为加仓主线",
+    "industryName": "化学制药",
+    "orgSName": "华安证券",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 31,
+    "attachSize": 1064,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611061831492359",
+    "title": "军工行业2027年度投资策略：布局正当时，把握军贸、航发主线",
+    "industryName": "航天装备Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 37,
+    "attachSize": 1402,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611061831492300",
+    "title": "通信行业专题研究点评：力箭二号一箭18星发射圆满成功，关注商业航天降本受益行业",
+    "industryName": "通信设备",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 249,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611061831488058",
+    "title": "传媒2027年年度策略：AI增强内容与媒介 新内需新序章",
+    "industryName": "影视院线",
+    "orgSName": "华鑫证券",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 50,
+    "attachSize": 1973,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611061831487564",
+    "title": "数据要素行业点评：国家数据集团正式成立，数据要素市场化进程提速",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "上海证券",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 372,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611061831484997",
+    "title": "石油石化行业深度报告：从炼油产能结构调整看石化发展周期",
+    "industryName": "炼化及贸易",
+    "orgSName": "东海证券",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 20,
+    "attachSize": 869,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611061831484340",
+    "title": "电力设备新能源行业点评：若伊朗战争结束对电力设备与新能源行业的影响",
+    "industryName": "电池",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-06 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 132,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611051831461171",
     "title": "2025年中国工业无人机行业（二）：多旋翼百舸争流、固定翼寡头垄断、垂直起降固定翼新兴高集中的三层分化",
     "industryName": "航空装备Ⅱ",
@@ -697,86 +807,6 @@
     "publishDate": "2026-10-31 00:00:00.000",
     "attachPages": 15,
     "attachSize": 674,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610301831250687",
-    "title": "电力设备及新能源：《新型电池产业发展“十五五”规划》点评-电池产业首份国家级规划，行业规模稳步增长至2030年",
-    "industryName": "其他电源设备Ⅱ",
-    "orgSName": "山西证券",
-    "publishDate": "2026-10-30 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 406,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610301831248399",
-    "title": "2025年中国网络存储行业洞察：数据洪流驱动网络存储升级，全球NAS市场预计2027年达95.23亿美元",
-    "industryName": "通信服务",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-10-30 00:00:00.000",
-    "attachPages": 26,
-    "attachSize": 2596,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610301831243554",
-    "title": "传媒行业快评报告：10月发放195款版号维持高位，散爆网络《少女前线》IP系列作品过审",
-    "industryName": "游戏Ⅱ",
-    "orgSName": "万联证券",
-    "publishDate": "2026-10-30 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 457,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610301831237534",
-    "title": "医药健康行业研究：出海大单品一：赛沃替尼迎价值拐点，27年开启全球商业化",
-    "industryName": "化学制药",
-    "orgSName": "国金证券",
-    "publishDate": "2026-10-30 00:00:00.000",
-    "attachPages": 25,
-    "attachSize": 4940,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610301831220598",
-    "title": "科技行业：亚马逊3Q26业绩：AWS未来两年增速超40%，资本开支高企致现金流恶化",
-    "industryName": "软件开发",
-    "orgSName": "浦银国际证券",
-    "publishDate": "2026-10-30 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 645,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202610301831218518",
-    "title": "科技行业之PCB ESG专题报告：从末端治理到全链闭环，PCB绿色转型进入价值兑现期",
-    "industryName": "元件",
-    "orgSName": "上海证券",
-    "publishDate": "2026-10-30 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 2111,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202610301831217416",
-    "title": "物理AI行业研究：物理AI中期高壁垒+高价值量环节——触觉＆灵巧手",
-    "industryName": "专用设备",
-    "orgSName": "国金证券",
-    "publishDate": "2026-10-30 00:00:00.000",
-    "attachPages": 18,
-    "attachSize": 2836,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202610291831189355",
-    "title": "食品饮料行业深度报告：2026Q3基金食品饮料持仓分析：基金持仓触底回升，白酒获小幅加配",
-    "industryName": "休闲食品",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-10-30 00:00:00.000",
-    "attachPages": 12,
-    "attachSize": 838,
     "ratingChange": 3
   }
 ]
