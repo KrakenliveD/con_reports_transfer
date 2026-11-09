@@ -1,5 +1,305 @@
 [
   {
+    "infoCode": "AP202611091831540092",
+    "title": "电子：先进封装驱动量测需求提升，经营效率提升，KLAC业绩快速增长",
+    "industryName": "元件",
+    "orgSName": "太平洋",
+    "publishDate": "2026-11-09 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 388,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611091831540085",
+    "title": "公用事业行业研究：电力行情的四重奏",
+    "industryName": "电力",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-09 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 2799,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611091831539913",
+    "title": "耐用消费产业行业研究：雅诗兰黛Q1FY27业绩强劲，中国美妆市场延续K型分化",
+    "industryName": "化妆品",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-09 00:00:00.000",
+    "attachPages": 12,
+    "attachSize": 1628,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611091831539920",
+    "title": "计算机行业研究：物理AI：巨头新战场",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-09 00:00:00.000",
+    "attachPages": 26,
+    "attachSize": 3676,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611091831538831",
+    "title": "电动车26Q3财报总结：锂电需求仍具韧性，产业链盈利分化",
+    "industryName": "汽车零部件",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-09 00:00:00.000",
+    "attachPages": 81,
+    "attachSize": 2958,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611081831535010",
+    "title": "海上风电行业专题：深远海放量，海缆与导管架打开价值空间",
+    "industryName": "风电设备",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 31,
+    "attachSize": 1086,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831534096",
+    "title": "电子行业研究：端侧AI催化密集，关注半导体设备及自主可控机会",
+    "industryName": "半导体",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1582,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831534050",
+    "title": "通信行业研究：美国中期选举落地扰动AI基建预期，国产算力链迎配置窗口",
+    "industryName": "通信设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 12,
+    "attachSize": 1768,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831534079",
+    "title": "食品饮料行业研究：持续推荐板块防御配置，股息+持仓结构具备比较优势",
+    "industryName": "食品加工",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 966,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831534049",
+    "title": "耐用消费产业行业研究：装修面积同比10月转正带动家居切换，AI端侧爆品频出",
+    "industryName": "消费电子",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 3890,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831534044",
+    "title": "互联网行业研究：AI影视持续景气，Applovin业绩超预期，AI营销商业化逻辑强化",
+    "industryName": "软件开发",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 1109,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831534046",
+    "title": "批发和零售贸易行业研究：美国中期选举翻蓝，关注外部环境预期修复机会",
+    "industryName": "一般零售",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 12,
+    "attachSize": 1108,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831532966",
+    "title": "计算机行业研究：算力过于悲观",
+    "industryName": "计算机设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 2089,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831532939",
+    "title": "机器人行业研究：宇树光轮强强联手，苹果发布人形HALO系统",
+    "industryName": "专用设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 1562,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831532937",
+    "title": "交通运输产业行业研究：宏观急转向，红利内需关注度提升",
+    "industryName": "物流",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 19,
+    "attachSize": 1333,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831532569",
+    "title": "石油化工行业研究：中选压低升级预期，原油回吐部分风险溢价",
+    "industryName": "炼化及贸易",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 2163,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831532568",
+    "title": "家电行业研究：11月TV面板报价持稳，MNT价格有望上涨",
+    "industryName": "白色家电",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1553,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831532561",
+    "title": "医药健康行业研究：持续看好CXO行业向上动能",
+    "industryName": "中药Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 2387,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831532552",
+    "title": "食品饮料行业2027年度投资策略：寒尽潮归，春启徐行",
+    "industryName": "饮料乳品",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 36,
+    "attachSize": 1540,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611081831532521",
+    "title": "金属行业2027年度投资策略：供给约束支撑，静待需求风起",
+    "industryName": "工业金属",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 51,
+    "attachSize": 3518,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831531731",
+    "title": "电力设备新能源行业点评：2027年新能源机制电价推进，风电价格有回升趋势",
+    "industryName": "其他电源设备Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 5,
+    "attachSize": 134,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831531696",
+    "title": "储能行业专题：国内大储量价齐升，户储新兴市场接力",
+    "industryName": "电网设备",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 23,
+    "attachSize": 961,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831531686",
+    "title": "食品饮料行业研究：26Q3基金持仓分析：板块仓位低位回补，重视底部配置机会",
+    "industryName": "食品加工",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 1736,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831531644",
+    "title": "房地产行业2027年度投资策略：有效供给持续收缩，租售比回升引导房价企稳",
+    "industryName": "房地产开发",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 36,
+    "attachSize": 1199,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611081831531609",
+    "title": "电力设备新能源2026年11月投资策略：风电储能招标保持高增，电网投资增速加快",
+    "industryName": "电池",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 20,
+    "attachSize": 3131,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611081831531597",
+    "title": "黄金行业深度研究报告之供需篇：关注供需结构变化，黄金长期配置价值显现",
+    "industryName": "贵金属",
+    "orgSName": "国元证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 1562,
+    "ratingChange": 2
+  },
+  {
+    "infoCode": "AP202611081831526328",
+    "title": "中小盘行业深度报告：普钢：盈利分层与破净特征",
+    "industryName": "普钢",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 669,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611071831524248",
+    "title": "农林牧渔行业投资策略：把握畜牧周期主线，关注种植天气催化",
+    "industryName": "养殖业",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 36,
+    "attachSize": 3051,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611071831524219",
+    "title": "农林牧渔行业点评报告：生猪养殖亏损拖累业绩，关注产能去化进度及天气催化",
+    "industryName": "养殖业",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 1446,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611071831524220",
+    "title": "公募基金投顾“T类份额”新规点评：基金投顾收费机制优化，助力买方财富管理发展",
+    "industryName": "证券Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-08 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 316,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611071831523470",
     "title": "农林牧渔行业2027年度投资策略：把握畜牧周期主线，关注种植天气催化",
     "industryName": "养殖业",
@@ -697,136 +997,6 @@
     "publishDate": "2026-11-02 00:00:00.000",
     "attachPages": 7,
     "attachSize": 1080,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831296130",
-    "title": "食品饮料行业点评报告：食品饮料持仓回暖，板块布局窗口开启",
-    "industryName": "白酒Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 9,
-    "attachSize": 874,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831296067",
-    "title": "食品饮料行业研究：板块配置情绪持续回暖，延续推荐稳健龙头",
-    "industryName": "白酒Ⅱ",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 10,
-    "attachSize": 969,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831295745",
-    "title": "机械行业研究：看好物理AI、燃气轮机，关注工程机械",
-    "industryName": "工程机械",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 1196,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831295714",
-    "title": "机器人行业研究：谷歌升级Genie 4世界模型，智元大会发布新一代G2 Max",
-    "industryName": "专用设备",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 14,
-    "attachSize": 1293,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831295224",
-    "title": "批发和零售贸易行业研究：酒店行业强周期属性，关注零售板块防御与修复机会",
-    "industryName": "一般零售",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 10,
-    "attachSize": 1261,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831295193",
-    "title": "传媒26Q3业绩总结：26Q3 AI短剧高景气，游戏稳健增长",
-    "industryName": "游戏Ⅱ",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 29,
-    "attachSize": 4296,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611011831293911",
-    "title": "计算机行业研究：为什么这轮物理AI不一样？",
-    "industryName": "IT服务Ⅱ",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 22,
-    "attachSize": 3412,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831293912",
-    "title": "通信行业研究：全球AI基建资本开支持续高企，光互联与国产算力景气共振",
-    "industryName": "通信设备",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 13,
-    "attachSize": 1127,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831293907",
-    "title": "耐用消费产业行业研究：运动服饰板块Q3流水折扣环比承压，显示逐月改善趋势",
-    "industryName": "服装家纺",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 12,
-    "attachSize": 1176,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831293863",
-    "title": "医药健康行业研究：甘李药业STAT6 PROTAC获批临床，关注赛道后续催化",
-    "industryName": "生物制品",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 17,
-    "attachSize": 2624,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831288003",
-    "title": "计算机行业研究：全球AI投入持续推进，硬件兑现与应用拓展共振",
-    "industryName": "计算机设备",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 680,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831287590",
-    "title": "通信行业海外AI巨头财报总结：云业务表现亮眼，持续加码AI算力投入",
-    "industryName": "通信设备",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 13,
-    "attachSize": 733,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611011831287316",
-    "title": "具身智能行业报告：本体商业化提速，量产放量与精细作业驱动配套升级",
-    "industryName": "专用设备",
-    "orgSName": "国元证券",
-    "publishDate": "2026-11-01 00:00:00.000",
-    "attachPages": 42,
-    "attachSize": 3153,
     "ratingChange": 3
   }
 ]
