@@ -1,5 +1,95 @@
 [
   {
+    "infoCode": "AP202611101831596720",
+    "title": "电子行业研究：市场已充分反映悲观预期，技术迭代持续支撑未来预期",
+    "industryName": "元件",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-10 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 1912,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611101831595555",
+    "title": "物理AI：世界模型+具身智能，AI的下一个风口",
+    "industryName": "专用设备",
+    "orgSName": "华安证券",
+    "publishDate": "2026-11-10 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 1992,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611101831595511",
+    "title": "2025年中国过敏性疾病药物行业系列报告（二）：2030年467亿市场、未来CAGR15.6%，四类生物制剂",
+    "industryName": "生物制品",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-11-10 00:00:00.000",
+    "attachPages": 21,
+    "attachSize": 2166,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611101831592136",
+    "title": "中小盘行业深度报告：工业金属：铜铝分化与盈利结构",
+    "industryName": "工业金属",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-10 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 695,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611101831581941",
+    "title": "非金属建材行业研究：看好3D打印上游量价齐升",
+    "industryName": "装修建材",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-10 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 755,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611101831581940",
+    "title": "医药健康行业研究：聚焦2026 EMSO：引领临床迭代，中国创新推动大药诞生",
+    "industryName": "化学制药",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-10 00:00:00.000",
+    "attachPages": 29,
+    "attachSize": 4993,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611101831579536",
+    "title": "矢量网络分析仪行业研究：高速互联催生测试增量，高端突破加速国产替代",
+    "industryName": "通用设备",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-10 00:00:00.000",
+    "attachPages": 28,
+    "attachSize": 4024,
+    "ratingChange": 2
+  },
+  {
+    "infoCode": "AP202611101831579566",
+    "title": "综合行业点评报告：大模型10月行业点评：中低档模型降价与Agent能力升级并进，国产模型密集发布",
+    "industryName": "综合Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-10 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 355,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611101831579564",
+    "title": "煤炭行业2027年度投资策略：能源安全内外共振，煤炭周期上行景气延续",
+    "industryName": "煤炭开采",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-10 00:00:00.000",
+    "attachPages": 51,
+    "attachSize": 2164,
+    "ratingChange": ""
+  },
+  {
     "infoCode": "AP202611101831576325",
     "title": "新能源行业26Q3财务报告总结：储能盈利略有波动、风电节奏放缓、光伏亏损收窄",
     "industryName": "电池",
@@ -928,135 +1018,5 @@
     "attachPages": 23,
     "attachSize": 1468,
     "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611031831378260",
-    "title": "2025年中国生物创新药市场跟踪报告：呋喹替尼6月市场动向：海外销售同比+1825%，武田11.3亿美元授权下国产VEGFR抑制剂全球放量路径研判",
-    "industryName": "医药商业",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 19,
-    "attachSize": 3143,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611031831376700",
-    "title": "通信行业专题研究点评：上海发力卫星互联网之城，我国卫星互联网行业有望加速发展",
-    "industryName": "通信设备",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 2,
-    "attachSize": 239,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611031831376686",
-    "title": "计算机行业点评报告：国产模型密集迭代，个人Agent有望步入加速阶段",
-    "industryName": "IT服务Ⅱ",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 272,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611031831376623",
-    "title": "有色金属行业点评报告：通胀回升强化加息预期，风险资产共振压制金价",
-    "industryName": "贵金属",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 257,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611031831366774",
-    "title": "电力设备新能源行业点评：电新板块高频数据跟踪",
-    "industryName": "其他电源设备Ⅱ",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 129,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611031831364391",
-    "title": "特斯拉跟踪报告：汽车订单回暖，智能驾驶付费提速",
-    "industryName": "汽车零部件",
-    "orgSName": "爱建证券",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 1180,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611031831363971",
-    "title": "海外银行借鉴系列：日本银行估值演绎：风险出清、盈利承压与ROE重估",
-    "industryName": "银行Ⅱ",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 18,
-    "attachSize": 1246,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611031831363627",
-    "title": "汽车行业点评报告：谷歌发布Genie 4世界模型，重视谷歌-波士顿动力产业链",
-    "industryName": "汽车零部件",
-    "orgSName": "华鑫证券",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 5,
-    "attachSize": 436,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611031831359844",
-    "title": "10月金融数据前瞻：信贷需求偏弱，直接融资支撑",
-    "industryName": "银行Ⅱ",
-    "orgSName": "中邮证券",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 11,
-    "attachSize": 612,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611031831351094",
-    "title": "电子：存储系统及升级服务驱动，泛林集团业绩快速增长",
-    "industryName": "元件",
-    "orgSName": "太平洋",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 392,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611031831351053",
-    "title": "电子：数据中心翻倍、模拟复苏广度提升，德州仪器业绩快速增长",
-    "industryName": "元件",
-    "orgSName": "太平洋",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 396,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611031831349772",
-    "title": "2025年全球及中国全地形车行业报告：春风动力vs北极星：同级别产品定价15,999美元vs17,749美元，中国制造以性价比加差异化策略切入北美高端市场",
-    "industryName": "乘用车",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 34,
-    "attachSize": 2406,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611031831338914",
-    "title": "汽车行业2026Q3业绩综述：业绩略承压，布局物理AI+全球化",
-    "industryName": "汽车零部件",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-03 00:00:00.000",
-    "attachPages": 118,
-    "attachSize": 11568,
-    "ratingChange": ""
   }
 ]
