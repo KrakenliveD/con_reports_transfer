@@ -1,5 +1,165 @@
 [
   {
+    "infoCode": "AP202611121831642231",
+    "title": "AI系列之模型速评：Anthropic启动IPO路演，Fable 5.2登顶第三方智能榜单",
+    "industryName": "游戏Ⅱ",
+    "orgSName": "西南证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 1375,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611121831642223",
+    "title": "创新药专题：中国之声闪耀2026ESMO",
+    "industryName": "化学制药",
+    "orgSName": "西南证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 58,
+    "attachSize": 2289,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611121831641852",
+    "title": "有色金属行业点评报告：沃勒打开50基点加息选项，紧缩预期升温金属承压",
+    "industryName": "贵金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 257,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611121831641836",
+    "title": "有色金属行业点评报告：美国10月CPI全面超预期，加息预期升温金属承压",
+    "industryName": "贵金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 255,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611111831632359",
+    "title": "具身智能首次覆盖报告：具身智能产业全景：全球政策比较、商业化路径与投资价值研判",
+    "industryName": "专用设备",
+    "orgSName": "中银国际证券(香港)",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 74,
+    "attachSize": 8787,
+    "ratingChange": 2
+  },
+  {
+    "infoCode": "AP202611111831635138",
+    "title": "家电行业2026Q4投资策略：基数效应迎来拐点，防御属性开始凸显",
+    "industryName": "其他家电Ⅱ",
+    "orgSName": "西南证券",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 25,
+    "attachSize": 1687,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611111831633481",
+    "title": "2026年中国端侧芯片行业：从云端智能到物理AI时代的产业重构（精华版）",
+    "industryName": "半导体",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 32,
+    "attachSize": 3088,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611111831632667",
+    "title": "海外制药企业2026Q3业绩回顾——美国两党医药政策对比",
+    "industryName": "生物制品",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 30,
+    "attachSize": 2006,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611111831632449",
+    "title": "大模型行业：能力兑现，增长加速",
+    "industryName": "软件开发",
+    "orgSName": "浦银国际证券",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 58,
+    "attachSize": 3375,
+    "ratingChange": 2
+  },
+  {
+    "infoCode": "AP202611111831631773",
+    "title": "计算机行业深度报告：AI+制造：国产替代与具身智能的共振时刻",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 33,
+    "attachSize": 2972,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611111831631113",
+    "title": "机械：10月挖机内销同比提速，出口继续向上",
+    "industryName": "工程机械",
+    "orgSName": "太平洋",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 290,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611111831615964",
+    "title": "银行行业2027年度投资策略：红利长存，择优而投",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 66,
+    "attachSize": 4467,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611111831615667",
+    "title": "人形机器人专题点评报告：苹果HALO跑通仿真训练至真实环境泛化链路",
+    "industryName": "专用设备",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 281,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611111831613076",
+    "title": "非银金融行业2027年度投资策略：红利价值凸显，估值修复可期",
+    "industryName": "多元金融",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 47,
+    "attachSize": 3181,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611111831612589",
+    "title": "农药行业快评：多重供需因素共振，草铵膦价格持续上涨",
+    "industryName": "农化制品",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 271,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611111831612050",
+    "title": "汽车行业投资策略：全球化拉动需求，全面拥抱AI和智能化",
+    "industryName": "汽车零部件",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-11 00:00:00.000",
+    "attachPages": 41,
+    "attachSize": 3201,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611101831596720",
     "title": "电子行业研究：市场已充分反映悲观预期，技术迭代持续支撑未来预期",
     "industryName": "元件",
@@ -937,86 +1097,6 @@
     "publishDate": "2026-11-05 00:00:00.000",
     "attachPages": 37,
     "attachSize": 1946,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611041831419030",
-    "title": "汽车行业销量数据跟踪报告：10月增长仍看出口，新品支撑交付回升",
-    "industryName": "汽车零部件",
-    "orgSName": "爱建证券",
-    "publishDate": "2026-11-04 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 1654,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611041831417486",
-    "title": "2025年中国生物细胞资源产业链洞察报告（一）：细胞治疗最成熟产业化环节，三梯队竞争格局与技术演进路径研判",
-    "industryName": "医药商业",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-11-04 00:00:00.000",
-    "attachPages": 20,
-    "attachSize": 1946,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611041831413603",
-    "title": "风电26Q3业绩总结：经营承压，关注深远海及欧洲风电机遇",
-    "industryName": "风电设备",
-    "orgSName": "五矿证券",
-    "publishDate": "2026-11-04 00:00:00.000",
-    "attachPages": 11,
-    "attachSize": 1709,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611041831413595",
-    "title": "2026Q3锂电财报点评：资本开支提速，关注需求节奏的变化",
-    "industryName": "电池",
-    "orgSName": "五矿证券",
-    "publishDate": "2026-11-04 00:00:00.000",
-    "attachPages": 18,
-    "attachSize": 2663,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611041831396770",
-    "title": "26Q3风电板块业绩总结：板块盈利筑底，招标量价指引27年确定性拐点",
-    "industryName": "风电设备",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-04 00:00:00.000",
-    "attachPages": 25,
-    "attachSize": 3160,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611041831395237",
-    "title": "医药行业专题报告：26Q3医药持仓占比提升显著，机构大幅加仓CXO",
-    "industryName": "生物制品",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-04 00:00:00.000",
-    "attachPages": 34,
-    "attachSize": 3677,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611041831392326",
-    "title": "耐用消费产业行业研究：AI眼镜点评：全彩化与AI交互共振，镜片与渠道有望提前受益",
-    "industryName": "一般零售",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-04 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 650,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611041831384753",
-    "title": "半导体行业深度报告：溅射靶材行业深度：半导体PVD工艺核心耗材，国产化进程加速",
-    "industryName": "半导体",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-04 00:00:00.000",
-    "attachPages": 23,
-    "attachSize": 1468,
     "ratingChange": 3
   }
 ]
