@@ -1,5 +1,145 @@
 [
   {
+    "infoCode": "AP202611131831680476",
+    "title": "医药生物行业动态点评：多因素赋能脑机接口产业高速发展，关注技术及商业化落地",
+    "industryName": "生物制品",
+    "orgSName": "上海证券",
+    "publishDate": "2026-11-13 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 378,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611131831680425",
+    "title": "基础化工：AI拉动先进封装大尺寸化，玻璃基板加工材料有望验证放量",
+    "industryName": "化学制品",
+    "orgSName": "华安证券",
+    "publishDate": "2026-11-13 00:00:00.000",
+    "attachPages": 5,
+    "attachSize": 304,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611131831669885",
+    "title": "制药行业：in vivo TCE：自免率先兑现，中国资产领跑",
+    "industryName": "化学制药",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-13 00:00:00.000",
+    "attachPages": 28,
+    "attachSize": 1643,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611121831669428",
+    "title": "中小盘行业深度报告：元件：环节分层与盈利质量",
+    "industryName": "元件",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-13 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 668,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611121831665518",
+    "title": "银行行业点评报告：政府债利息征税情景推演：比价重构与业绩影响",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 1752,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611121831664483",
+    "title": "AI算力硬件与存储周期共振：2026年中国半导体产业深度洞察——从AI计算价值链到存储结构升级",
+    "industryName": "半导体",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 30,
+    "attachSize": 4721,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611121831660687",
+    "title": "银行行业快评报告：重视框架改革 提升传导效率",
+    "industryName": "银行Ⅱ",
+    "orgSName": "万联证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 410,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611121831660264",
+    "title": "基础化工行业专题：长坡厚雪，人形机器人新材料应用研究",
+    "industryName": "化学制品",
+    "orgSName": "华安证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 52,
+    "attachSize": 3362,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611121831659696",
+    "title": "电气设备行业澳洲锂矿2026Q3财报梳理分析：盈利承压，扩产不止",
+    "industryName": "电池",
+    "orgSName": "五矿证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 14,
+    "attachSize": 1041,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611121831654789",
+    "title": "医药行业2027年度投资策略：创新引领，多点开花",
+    "industryName": "化学制药",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 137,
+    "attachSize": 9095,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611121831654571",
+    "title": "云及大数据服务行业研究：海外AI云厂商融资现状研究",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 1931,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611121831652547",
+    "title": "零售行业2026Q4投资策略：CPI温和抬升，消费信心有望修复",
+    "industryName": "一般零售",
+    "orgSName": "西南证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 1581,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611121831652034",
+    "title": "通信行业点评报告：卫星互联网低轨29组卫星成功发射，关注商业航天相关投资机会",
+    "industryName": "通信设备",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 238,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611121831649312",
+    "title": "传媒行业动态研究报告：本轮传媒行情主驱动力来自字节跳动",
+    "industryName": "游戏Ⅱ",
+    "orgSName": "华鑫证券",
+    "publishDate": "2026-11-12 00:00:00.000",
+    "attachPages": 5,
+    "attachSize": 228,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611121831642231",
     "title": "AI系列之模型速评：Anthropic启动IPO路演，Fable 5.2登顶第三方智能榜单",
     "industryName": "游戏Ⅱ",
@@ -937,166 +1077,6 @@
     "publishDate": "2026-11-06 00:00:00.000",
     "attachPages": 4,
     "attachSize": 132,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611051831461171",
-    "title": "2025年中国工业无人机行业（二）：多旋翼百舸争流、固定翼寡头垄断、垂直起降固定翼新兴高集中的三层分化",
-    "industryName": "航空装备Ⅱ",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 16,
-    "attachSize": 4753,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611051831460075",
-    "title": "ESMO2026——中国创新药管线梳理",
-    "industryName": "化学制药",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 22,
-    "attachSize": 1830,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611051831455859",
-    "title": "机械设备行业动态研究：四部门发文支持燃气轮机创新发展，产业链自主化有望提速",
-    "industryName": "通用设备",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 269,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611051831454993",
-    "title": "电力设备：加快自主燃机试点，积累更多运行数据，有望推动国内企业出海",
-    "industryName": "光伏设备",
-    "orgSName": "中邮证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 567,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611051831454998",
-    "title": "医药行业ESMO 2026回顾：ADC前线突破，序贯治疗或加剧后线分化",
-    "industryName": "生物制品",
-    "orgSName": "浦银国际证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 10,
-    "attachSize": 2057,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611051831451150",
-    "title": "液冷专题报告：AI算力下的液冷方案与产业链分析",
-    "industryName": "元件",
-    "orgSName": "山西证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 29,
-    "attachSize": 2947,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611051831449603",
-    "title": "机械设备行业具身智能数据采集跟踪点评：标准落地，具身数据从“量增”走向“质胜”",
-    "industryName": "通用设备",
-    "orgSName": "东莞证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 337,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611051831449195",
-    "title": "3Q26食品饮料基金持仓点评：3Q26食饮基金全仓仓位略有回升，关注风格转换下的底部配置机遇",
-    "industryName": "非白酒",
-    "orgSName": "中银证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 5,
-    "attachSize": 520,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611051831448782",
-    "title": "工控&电网26Q3财报总结：工控结构性分化、电网特高压兑现力强、出海业绩略承压",
-    "industryName": "其他电源设备Ⅱ",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 53,
-    "attachSize": 3129,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611051831448509",
-    "title": "银行理财观察之“赎回基金”：欠配之下的申赎腾挪",
-    "industryName": "银行Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 6,
-    "attachSize": 684,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611051831444873",
-    "title": "2026年食品饮料行业投资策略报告：内需新叙事酝酿，份额重构与量价修复",
-    "industryName": "休闲食品",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 46,
-    "attachSize": 2581,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611051831442313",
-    "title": "银行业理财观察之“存款到期”：评估理财的高息存款到期压力",
-    "industryName": "银行Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 6,
-    "attachSize": 578,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611051831433330",
-    "title": "证券行业研究：政策组合拳推出，释放稳市场信号",
-    "industryName": "证券Ⅱ",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 487,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611051831433307",
-    "title": "伊拉克石油专题：原油产量快速增长带来区域性机会",
-    "industryName": "炼化及贸易",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 20,
-    "attachSize": 2758,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611041831424701",
-    "title": "医药行业2026Q1-Q3总结报告：CXO、科研服务及创新药板块引领业绩增长",
-    "industryName": "化学制药",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 52,
-    "attachSize": 4253,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611041831424006",
-    "title": "医药行业AI4S（三）：因果数据——机制理解瓶颈突破口，AI+生物数据新基建正崛起",
-    "industryName": "化学制药",
-    "orgSName": "中邮证券",
-    "publishDate": "2026-11-05 00:00:00.000",
-    "attachPages": 37,
-    "attachSize": 1946,
     "ratingChange": 3
   }
 ]
