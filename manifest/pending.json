@@ -1,5 +1,115 @@
 [
   {
+    "infoCode": "AP202611181831814901",
+    "title": "REITs行业投资策略：扩容提速与分化加剧，REITs回归现金流定价",
+    "industryName": "房地产开发",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-18 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 3038,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611181831814393",
+    "title": "社服与消费视角点评10月国内宏观数据：10月社零同比+0.4%，增幅环比回落",
+    "industryName": "酒店餐饮",
+    "orgSName": "中银证券",
+    "publishDate": "2026-11-18 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 598,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611181831814095",
+    "title": "燃气轮机行业专题：燃气轮机高温合金国产化趋势",
+    "industryName": "电机Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-18 00:00:00.000",
+    "attachPages": 25,
+    "attachSize": 1400,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611181831809289",
+    "title": "AI内容大时代：从生产变革到体验创新，内容产业新一轮成长周期开启",
+    "industryName": "游戏Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-18 00:00:00.000",
+    "attachPages": 47,
+    "attachSize": 6074,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611181831806363",
+    "title": "农林牧渔行业深度：生猪养殖业，周期见底，产业升级",
+    "industryName": "养殖业",
+    "orgSName": "太平洋",
+    "publishDate": "2026-11-18 00:00:00.000",
+    "attachPages": 28,
+    "attachSize": 1593,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611171831790303",
+    "title": "2026年10月社零数据跟踪报告：M10社零同比+0.4%，增速环比有所回落",
+    "industryName": "一般零售",
+    "orgSName": "万联证券",
+    "publishDate": "2026-11-17 00:00:00.000",
+    "attachPages": 11,
+    "attachSize": 1168,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611171831788780",
+    "title": "创新药动态更新：生物医药：2026医保谈判正式落地，创新药入选数量创纪录",
+    "industryName": "化学制药",
+    "orgSName": "山西证券",
+    "publishDate": "2026-11-17 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 399,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611171831786461",
+    "title": "磁电存储（MED）深度研究：加入存储“金字塔”，国产存储的黄金“底座”",
+    "industryName": "光学光电子",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-17 00:00:00.000",
+    "attachPages": 16,
+    "attachSize": 2141,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611171831783062",
+    "title": "房地产行业2026年1-10月统计局数据点评：10月商品房销售同比降幅收窄，二手房成交同比涨幅扩大；投资同比降幅扩大",
+    "industryName": "房地产开发",
+    "orgSName": "中银证券",
+    "publishDate": "2026-11-17 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 607,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611171831781238",
+    "title": "房地产行业2026年10月70个大中城市房价数据点评：70城新房房价环比跌幅持平，二手房房价跌幅收窄；一线城市二手房房价环比持续8个月正增长",
+    "industryName": "房地产开发",
+    "orgSName": "中银证券",
+    "publishDate": "2026-11-17 00:00:00.000",
+    "attachPages": 8,
+    "attachSize": 1252,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611171831779762",
+    "title": "叉车销量点评报告：出口是确定性增量，智能化打开想象空间",
+    "industryName": "通用设备",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-17 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 665,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611171831769974",
     "title": "电子：数据中心收入同比近翻倍，驱动AMD业绩高速增长",
     "industryName": "元件",
@@ -848,195 +958,5 @@
     "attachPages": 41,
     "attachSize": 3201,
     "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611101831596720",
-    "title": "电子行业研究：市场已充分反映悲观预期，技术迭代持续支撑未来预期",
-    "industryName": "元件",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 17,
-    "attachSize": 1912,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611101831595555",
-    "title": "物理AI：世界模型+具身智能，AI的下一个风口",
-    "industryName": "专用设备",
-    "orgSName": "华安证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 24,
-    "attachSize": 1992,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611101831595511",
-    "title": "2025年中国过敏性疾病药物行业系列报告（二）：2030年467亿市场、未来CAGR15.6%，四类生物制剂",
-    "industryName": "生物制品",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 21,
-    "attachSize": 2166,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611101831592136",
-    "title": "中小盘行业深度报告：工业金属：铜铝分化与盈利结构",
-    "industryName": "工业金属",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 695,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611101831581941",
-    "title": "非金属建材行业研究：看好3D打印上游量价齐升",
-    "industryName": "装修建材",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 755,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611101831581940",
-    "title": "医药健康行业研究：聚焦2026 EMSO：引领临床迭代，中国创新推动大药诞生",
-    "industryName": "化学制药",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 29,
-    "attachSize": 4993,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611101831579536",
-    "title": "矢量网络分析仪行业研究：高速互联催生测试增量，高端突破加速国产替代",
-    "industryName": "通用设备",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 28,
-    "attachSize": 4024,
-    "ratingChange": 2
-  },
-  {
-    "infoCode": "AP202611101831579566",
-    "title": "综合行业点评报告：大模型10月行业点评：中低档模型降价与Agent能力升级并进，国产模型密集发布",
-    "industryName": "综合Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 355,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611101831579564",
-    "title": "煤炭行业2027年度投资策略：能源安全内外共振，煤炭周期上行景气延续",
-    "industryName": "煤炭开采",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 51,
-    "attachSize": 2164,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611101831576325",
-    "title": "新能源行业26Q3财务报告总结：储能盈利略有波动、风电节奏放缓、光伏亏损收窄",
-    "industryName": "电池",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 85,
-    "attachSize": 3491,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611101831575433",
-    "title": "电子行业2027年度投资策略：应用定需求，Token看强度-投资沿AI硬件全链条扩散",
-    "industryName": "元件",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 63,
-    "attachSize": 4990,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611101831575430",
-    "title": "基础化工行业投资策略：产能供给见顶，库存低位蓄力，需求东风下中国化工开启新纪元",
-    "industryName": "化学制品",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 65,
-    "attachSize": 6544,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611101831575086",
-    "title": "公用环保202611第1期：广东2026年新能源机制电价竞价结果0.3元/kWh，电价形成机制专题研究",
-    "industryName": "电力",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 30,
-    "attachSize": 4031,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611101831570062",
-    "title": "风电氢能行业2027年度投资策略：周期蓄势，能源自主与产业趋势共振",
-    "industryName": "风电设备",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 26,
-    "attachSize": 1332,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611101831570060",
-    "title": "锂电行业2027年度投资策略：储能及出海共驱增长，把握盈利韧性与新技术红利",
-    "industryName": "电池",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 39,
-    "attachSize": 2423,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611101831570059",
-    "title": "光储行业2027年度投资策略：需求回暖，能源自主与技术升级驱动光储成长",
-    "industryName": "光伏设备",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 23,
-    "attachSize": 1651,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611101831570048",
-    "title": "机械行业2027年度投资策略：咬定技术创新周期，精选传统设备α方向",
-    "industryName": "通用设备",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 52,
-    "attachSize": 3499,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611101831569974",
-    "title": "计算机行业2027年度策略：全视角科技投资脉络：从大模型百家争鸣到算力需求井喷",
-    "industryName": "软件开发",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 25,
-    "attachSize": 2031,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611101831569451",
-    "title": "高端制造行业：美国人形机器人第一股上市，产业定价标准从演示转向交付",
-    "industryName": "通用设备",
-    "orgSName": "国新证券股份",
-    "publishDate": "2026-11-10 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 378,
-    "ratingChange": 4
   }
 ]
