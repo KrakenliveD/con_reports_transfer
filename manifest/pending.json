@@ -1,5 +1,125 @@
 [
   {
+    "infoCode": "AP202611201831909981",
+    "title": "保险Ⅱ行业点评报告：26Q3保险资金运用数据点评：逆势加仓股票投资，债券占比明显提升",
+    "industryName": "保险Ⅱ",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-21 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 569,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611201831903948",
+    "title": "保险行业2027年度投资策略：循本守正行稳致远，迎接保险资负管理新时代",
+    "industryName": "保险Ⅱ",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 47,
+    "attachSize": 1693,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611201831902654",
+    "title": "纺织服装11月投资策略：10月服装社零增速转负，中国鞋服出口增速保持双位数",
+    "industryName": "纺织制造",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 22,
+    "attachSize": 3979,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611201831902564",
+    "title": "房地产行业2027年投资策略：从规模收缩到经营重塑",
+    "industryName": "房地产开发",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 40,
+    "attachSize": 3102,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611201831900888",
+    "title": "有色金属2027年度策略：寒枝蓄蕊，只待春信",
+    "industryName": "工业金属",
+    "orgSName": "华安证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 43,
+    "attachSize": 5878,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611201831891426",
+    "title": "锂行业专题：供需相对平衡，锂价重回边际成本定价",
+    "industryName": "能源金属",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 835,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611201831890334",
+    "title": "通信服务行业专题：运营商基础业务承压但稳健，算力和Token业务成为第二成长曲线，板块优质红利标的",
+    "industryName": "通信服务",
+    "orgSName": "华安证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 16,
+    "attachSize": 1443,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611201831888296",
+    "title": "物理AI深度之一：数采扩容加速模型迭代，数据飞轮推动本体放量",
+    "industryName": "专用设备",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 76,
+    "attachSize": 3824,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611201831888072",
+    "title": "计算机行业点评报告：腾讯2026Q3资本开支创新高，云与AI应用进入兑现期",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 276,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611201831888070",
+    "title": "有色金属行业点评报告：海外美债持仓回落，估值扰动不等于资金撤离",
+    "industryName": "贵金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 242,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611201831888069",
+    "title": "食品饮料行业点评报告：十月社零增速回落，必选消费韧性延续",
+    "industryName": "白酒Ⅱ",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 270,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611201831886799",
+    "title": "电子行业研究：ASIC加速放量，ASIC产业链成长可期",
+    "industryName": "半导体",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-20 00:00:00.000",
+    "attachPages": 22,
+    "attachSize": 2515,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611201831884648",
     "title": "计算机行业2027年度投资策略：聚焦AI主线，把握算力与应用机遇",
     "industryName": "IT服务Ⅱ",
@@ -927,116 +1047,6 @@
     "publishDate": "2026-11-14 00:00:00.000",
     "attachPages": 16,
     "attachSize": 683,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611131831700961",
-    "title": "仪器仪表：国产替代长坡厚雪，恰逢AI随风而起",
-    "industryName": "电网设备",
-    "orgSName": "西南证券",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 37,
-    "attachSize": 3363,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611131831700665",
-    "title": "大消费行业2026Q3基金持仓分析：大消费板块重仓比例环比回暖",
-    "industryName": "一般零售",
-    "orgSName": "万联证券",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 10,
-    "attachSize": 997,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611131831700694",
-    "title": "2025年中国去黑头套装市场研究报告：去黑头套装从基础清洁向科技修护升级，国货品牌主导与线上渠道驱动增长解析",
-    "industryName": "个护用品",
-    "orgSName": "头豹研究院",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 21,
-    "attachSize": 2391,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611131831700664",
-    "title": "通信行业快评报告：英伟达CEO换帅，关注AI算力产业竞争格局变动及国产算力机遇",
-    "industryName": "通信设备",
-    "orgSName": "万联证券",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 436,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611131831696104",
-    "title": "关于宠物品牌的思考，从品牌形成、品类差异与宠物特性来看",
-    "industryName": "饲料",
-    "orgSName": "华鑫证券",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 21,
-    "attachSize": 1923,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611131831688009",
-    "title": "AI系列之模型速评：Google：Gemini 4 Carbon面向付费用户开放，多工作流基准登顶并上线多智能体编排",
-    "industryName": "游戏Ⅱ",
-    "orgSName": "西南证券",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 8,
-    "attachSize": 2282,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611131831682066",
-    "title": "CSP：云收入增长加速，资本回报成为下一阶段定价核心",
-    "industryName": "IT服务Ⅱ",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 39,
-    "attachSize": 2192,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611131831680476",
-    "title": "医药生物行业动态点评：多因素赋能脑机接口产业高速发展，关注技术及商业化落地",
-    "industryName": "生物制品",
-    "orgSName": "上海证券",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 378,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611131831680425",
-    "title": "基础化工：AI拉动先进封装大尺寸化，玻璃基板加工材料有望验证放量",
-    "industryName": "化学制品",
-    "orgSName": "华安证券",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 5,
-    "attachSize": 304,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611131831669885",
-    "title": "制药行业：in vivo TCE：自免率先兑现，中国资产领跑",
-    "industryName": "化学制药",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 28,
-    "attachSize": 1643,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611121831669428",
-    "title": "中小盘行业深度报告：元件：环节分层与盈利质量",
-    "industryName": "元件",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-13 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 668,
     "ratingChange": 3
   }
 ]
