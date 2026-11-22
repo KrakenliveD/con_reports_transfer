@@ -1,5 +1,15 @@
 [
   {
+    "infoCode": "AP202611211831922351",
+    "title": "医药健康行业研究：医疗服务价格立项指南跟踪：项目规则全面统一，质量与效率驱动行业分化",
+    "industryName": "化学制药",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-21 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 2788,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611201831909981",
     "title": "保险Ⅱ行业点评报告：26Q3保险资金运用数据点评：逆势加仓股票投资，债券占比明显提升",
     "industryName": "保险Ⅱ",
@@ -1018,35 +1028,5 @@
     "attachPages": 38,
     "attachSize": 3910,
     "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611141831706253",
-    "title": "海外电力设备巨头财报总结专题：电网改造与AIDC双轮驱动，海外电力设备龙头进入业绩兑现期",
-    "industryName": "其他电源设备Ⅱ",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-14 00:00:00.000",
-    "attachPages": 43,
-    "attachSize": 3188,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611141831706137",
-    "title": "中小盘行业深度报告：小家电：市值分层与经营模式差异",
-    "industryName": "小家电",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-14 00:00:00.000",
-    "attachPages": 16,
-    "attachSize": 674,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611141831706018",
-    "title": "中小盘行业深度报告：半导体：七类环节的反弹节奏与盈利面",
-    "industryName": "半导体",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-14 00:00:00.000",
-    "attachPages": 16,
-    "attachSize": 683,
-    "ratingChange": 3
   }
 ]
