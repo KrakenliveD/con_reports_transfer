@@ -1,5 +1,155 @@
 [
   {
+    "infoCode": "AP202611241831981918",
+    "title": "银行：司库负债策略跟踪-跨年负债摆布，NCD期限拉长",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 964,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241831980623",
+    "title": "石化化工行业2027年投资策略：能源价格处于高位，关注盈利修复行业",
+    "industryName": "炼化及贸易",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 60,
+    "attachSize": 14143,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241831979113",
+    "title": "科技行业2027年度策略：AI需求持续，算力升级与产品迭代共振",
+    "industryName": "消费电子",
+    "orgSName": "上海证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 18,
+    "attachSize": 3008,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241831978297",
+    "title": "计算机行业点评报告：特斯拉：核心汽车业务承压，AI与能源业务拓展长期成长空间",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "华鑫证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 5,
+    "attachSize": 310,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241831977544",
+    "title": "国产算力事件点评：美国AI管制持续收紧，持续看好国产算力自主可控与算力出海",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "上海证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 369,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241831977545",
+    "title": "2027年新消费行业年度策略：消费新周期，聚焦数智、服务、出海",
+    "industryName": "一般零售",
+    "orgSName": "上海证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 16,
+    "attachSize": 1370,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241831974447",
+    "title": "基础化工行业：2027年钾肥进口大合同价格上涨，支撑国内钾肥价格，企业盈利有望保持稳定",
+    "industryName": "化学制品",
+    "orgSName": "诚通证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 253,
+    "ratingChange": 2
+  },
+  {
+    "infoCode": "AP202611231831963529",
+    "title": "2026年中国创新药出海洞察报告：185亿单笔天价刷新记录，石药恒瑞信达领衔斩获全球TOP10交易8席",
+    "industryName": "医药商业",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-11-23 00:00:00.000",
+    "attachPages": 11,
+    "attachSize": 1310,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611231831958393",
+    "title": "出口链：2026M10造纸板块保持较高景气度，卫浴跌幅持续收窄",
+    "industryName": "家居用品",
+    "orgSName": "太平洋",
+    "publishDate": "2026-11-23 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 578,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611231831957947",
+    "title": "能源公用板块：高股息主题路演系列三",
+    "industryName": "电力",
+    "orgSName": "国投证券(香港)",
+    "publishDate": "2026-11-23 00:00:00.000",
+    "attachPages": 36,
+    "attachSize": 2739,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611231831957156",
+    "title": "银行行业快评报告：净息差环比持平",
+    "industryName": "银行Ⅱ",
+    "orgSName": "万联证券",
+    "publishDate": "2026-11-23 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 400,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611231831952533",
+    "title": "建筑材料行业报告：市场风偏持续下行，关注红利属性标的",
+    "industryName": "水泥",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-11-23 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 947,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611231831949822",
+    "title": "汽车行业点评报告：检测行业规则持续加码，市场规模有望扩容",
+    "industryName": "汽车零部件",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-23 00:00:00.000",
+    "attachPages": 17,
+    "attachSize": 937,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611231831949802",
+    "title": "基础化工行业厄尔尼诺专题报告（二）：农药：刚需稳健，结构性增长机会可期",
+    "industryName": "化学制品",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-23 00:00:00.000",
+    "attachPages": 45,
+    "attachSize": 3597,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611231831948497",
+    "title": "商用车行业点评报告：2026年1-10月客车：大中客内需承压，轻客与出口持续增长",
+    "industryName": "商用车",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-23 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 284,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611231831943262",
     "title": "耐用消费产业行业研究：亚玛芬上调26全年指引，BEMT新型防晒剂在美上市",
     "industryName": "纺织制造",
@@ -908,215 +1058,5 @@
     "attachPages": 13,
     "attachSize": 1328,
     "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611161831761322",
-    "title": "建筑材料行业报告：市场风偏下行，关注红利属性及成本改善标的",
-    "industryName": "水泥",
-    "orgSName": "中邮证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 6,
-    "attachSize": 953,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831758182",
-    "title": "纺织服装行业专题：从商业模式和现金流角度挖掘板块红利价值投资机遇",
-    "industryName": "服装家纺",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 34,
-    "attachSize": 470,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831757363",
-    "title": "商贸零售行业点评报告：10月社零同比+0.4%，五部门部署消费基础设施建设",
-    "industryName": "一般零售",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 388,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831756844",
-    "title": "传媒行业AI系列之模型速评：Google：Google推出Gemini 4Hydrogen，单任务成本较Flash系列下降",
-    "industryName": "数字媒体",
-    "orgSName": "西南证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 6,
-    "attachSize": 1206,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611161831751040",
-    "title": "港股消费板块的高股息投资策略：逆风收息",
-    "industryName": "一般零售",
-    "orgSName": "国投证券(香港)",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 27,
-    "attachSize": 2249,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611161831750569",
-    "title": "社零数据点评：10月国内社零同比增长0.4%，限上纺织服装增速-2.0%",
-    "industryName": "服装家纺",
-    "orgSName": "山西证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 5,
-    "attachSize": 803,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831748595",
-    "title": "农林牧渔行业2026Q3基金持仓分析：农牧重仓比例环比回升，资金回流养殖龙头",
-    "industryName": "养殖业",
-    "orgSName": "万联证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 8,
-    "attachSize": 1009,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831747786",
-    "title": "医药生物：2026年医保双目录发布，国产创新药继续兑现支付准入",
-    "industryName": "化学制药",
-    "orgSName": "华安证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 488,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611161831745809",
-    "title": "计算机行业点评报告：国内开源模型加速出海，性价比优势凸显",
-    "industryName": "IT服务Ⅱ",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 285,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831745767",
-    "title": "公用环保行业202611第1期：《中华人民共和国水法》修订通过，中电联发布全国统一电力市场评价报告",
-    "industryName": "电力",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 30,
-    "attachSize": 3939,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831745761",
-    "title": "人形机器人系列专题之具身模型：RT-2→OpenVLA→π系列的架构演进",
-    "industryName": "专用设备",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 36,
-    "attachSize": 4163,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831743793",
-    "title": "有色金属行业报告：加息预期强化，金属价格普遍承压",
-    "industryName": "工业金属",
-    "orgSName": "中邮证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 12,
-    "attachSize": 1226,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831743268",
-    "title": "非银行金融行业研究：互换便利加速落地，非银板块配置性价比高",
-    "industryName": "证券Ⅱ",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 9,
-    "attachSize": 1097,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831741733",
-    "title": "基础化工行业专题：空白掩模版：光刻工艺关键基板材料，国产化突破正当时",
-    "industryName": "化学制品",
-    "orgSName": "华安证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 19,
-    "attachSize": 1530,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611161831740888",
-    "title": "大马力内燃机产业链专题报告：从备电到主电，AIDC驱动需求跃升",
-    "industryName": "通用设备",
-    "orgSName": "山西证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 29,
-    "attachSize": 3145,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831738732",
-    "title": "耐用消费产业行业研究：裕元集团发布Q3业绩，双十一美妆国货领跑大众与功效赛道",
-    "industryName": "医疗美容",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 13,
-    "attachSize": 1464,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831738337",
-    "title": "耐用消费产业行业研究：AI端侧双11持续高增，英伟达换帅改变AI散热格局",
-    "industryName": "消费电子",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 24,
-    "attachSize": 4031,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831738235",
-    "title": "电力设备与新能源行业研究：NV人事变动扰动AIDC供应链预期，继续底部布局alpha公司",
-    "industryName": "电池",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 12,
-    "attachSize": 1424,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831738188",
-    "title": "电子行业研究：两大晶圆厂指引积极，自主可控主线继续强化",
-    "industryName": "半导体",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 8,
-    "attachSize": 1577,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831737809",
-    "title": "银行行业点评报告：政府债征税情景下的新券溢价补偿测算",
-    "industryName": "银行Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 9,
-    "attachSize": 1107,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831737770",
-    "title": "机械行业研究：看好海工、端侧AI，重视机器人机会",
-    "industryName": "工程机械",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-16 00:00:00.000",
-    "attachPages": 15,
-    "attachSize": 1893,
-    "ratingChange": 3
   }
 ]
