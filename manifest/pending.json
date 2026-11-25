@@ -1,5 +1,135 @@
 [
   {
+    "infoCode": "AP202611251832018144",
+    "title": "煤炭进口数据拆解：26年10月：海外偏紧，进口煤收缩",
+    "industryName": "煤炭开采",
+    "orgSName": "山西证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 10,
+    "attachSize": 1430,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832013747",
+    "title": "医药生物行业2027年年度投资策略：创新价值持续兑现，AI4S赋能行业高速发展",
+    "industryName": "生物制品",
+    "orgSName": "上海证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 28,
+    "attachSize": 735,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832013338",
+    "title": "计算机行业点评报告：Meta Platforms：营收增长，广告AI优化与智能体布局并进",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "华鑫证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 297,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832013314",
+    "title": "汽车行业点评报告：小鹏机器人模型稳步推进，新一代IRON亮相在即",
+    "industryName": "汽车零部件",
+    "orgSName": "华鑫证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 6,
+    "attachSize": 481,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832013305",
+    "title": "农林牧渔行业专题报告：周期的复盘与展望：从母猪去化、前瞻指标和股价表现来看",
+    "industryName": "养殖业",
+    "orgSName": "华鑫证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 610,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241832001556",
+    "title": "AI对全球互联网流量冲击：海外AI搜索加速演进，国内AI短剧挤占流量",
+    "industryName": "游戏Ⅱ",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 59,
+    "attachSize": 4473,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241832001092",
+    "title": "银行理财观察之“负债端赎回压力”：净值继续下探，赎回压力仍存",
+    "industryName": "银行Ⅱ",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 7,
+    "attachSize": 518,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241832001091",
+    "title": "农林牧渔行业点评报告：旺季需求与惜售或支撑猪价修复，亏损与政策共振推动产能去化",
+    "industryName": "养殖业",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 15,
+    "attachSize": 1424,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241832000163",
+    "title": "公用环保行业202611第3期：1-10月规上工业发电量8.3万亿kWh（+1.8%），国家能源局发布《中国虚拟电厂发展报告（2026）》",
+    "industryName": "电力",
+    "orgSName": "国信证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 31,
+    "attachSize": 3944,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241831999038",
+    "title": "计算机行业深度报告：物理AI政策解读系列1-上海市：物理AI写入省级产业政策，2027-28年落地窗口打开",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 11,
+    "attachSize": 644,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241831998379",
+    "title": "有色金属行业点评报告：利率上行方向明确，加息节奏仍存分歧",
+    "industryName": "工业金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 252,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611241831983648",
+    "title": "美国关键矿产发展跟踪：美、芬签署关键矿产合作协议 欧美供应链合作深化",
+    "industryName": "工业金属",
+    "orgSName": "五矿证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 533,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611241831983295",
+    "title": "消费电子行业点评报告：存储压力趋缓、端侧AI加速扩容，消费电子或迎盈利修复",
+    "industryName": "消费电子",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-24 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 333,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611241831981918",
     "title": "银行：司库负债策略跟踪-跨年负债摆布，NCD期限拉长",
     "industryName": "银行Ⅱ",
@@ -968,95 +1098,5 @@
     "attachPages": 28,
     "attachSize": 1593,
     "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611171831790303",
-    "title": "2026年10月社零数据跟踪报告：M10社零同比+0.4%，增速环比有所回落",
-    "industryName": "一般零售",
-    "orgSName": "万联证券",
-    "publishDate": "2026-11-17 00:00:00.000",
-    "attachPages": 11,
-    "attachSize": 1168,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611171831788780",
-    "title": "创新药动态更新：生物医药：2026医保谈判正式落地，创新药入选数量创纪录",
-    "industryName": "化学制药",
-    "orgSName": "山西证券",
-    "publishDate": "2026-11-17 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 399,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611171831786461",
-    "title": "磁电存储（MED）深度研究：加入存储“金字塔”，国产存储的黄金“底座”",
-    "industryName": "光学光电子",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-17 00:00:00.000",
-    "attachPages": 16,
-    "attachSize": 2141,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611171831783062",
-    "title": "房地产行业2026年1-10月统计局数据点评：10月商品房销售同比降幅收窄，二手房成交同比涨幅扩大；投资同比降幅扩大",
-    "industryName": "房地产开发",
-    "orgSName": "中银证券",
-    "publishDate": "2026-11-17 00:00:00.000",
-    "attachPages": 7,
-    "attachSize": 607,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611171831781238",
-    "title": "房地产行业2026年10月70个大中城市房价数据点评：70城新房房价环比跌幅持平，二手房房价跌幅收窄；一线城市二手房房价环比持续8个月正增长",
-    "industryName": "房地产开发",
-    "orgSName": "中银证券",
-    "publishDate": "2026-11-17 00:00:00.000",
-    "attachPages": 8,
-    "attachSize": 1252,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611171831779762",
-    "title": "叉车销量点评报告：出口是确定性增量，智能化打开想象空间",
-    "industryName": "通用设备",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-17 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 665,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611171831769974",
-    "title": "电子：数据中心收入同比近翻倍，驱动AMD业绩高速增长",
-    "industryName": "元件",
-    "orgSName": "太平洋",
-    "publishDate": "2026-11-17 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 392,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611171831769969",
-    "title": "电子：Iphone、Mac驱动苹果增长，顺价与供应管理应对存储价格压力",
-    "industryName": "元件",
-    "orgSName": "太平洋",
-    "publishDate": "2026-11-17 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 414,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611161831762472",
-    "title": "有色金属：铜矿短缺，下一个投资目的地在哪？",
-    "industryName": "工业金属",
-    "orgSName": "五矿证券",
-    "publishDate": "2026-11-17 00:00:00.000",
-    "attachPages": 13,
-    "attachSize": 1328,
-    "ratingChange": ""
   }
 ]
