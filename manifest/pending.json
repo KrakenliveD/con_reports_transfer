@@ -1,5 +1,135 @@
 [
   {
+    "infoCode": "AP202611261832057959",
+    "title": "电子行业研究：晶圆制造2.0时代，台积电竞争优势有望延续",
+    "industryName": "元件",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 22,
+    "attachSize": 2600,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611261832056231",
+    "title": "储能行业2027年度策略：全球需求拓新局，盈利兑现见真章",
+    "industryName": "电池",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 34,
+    "attachSize": 3770,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611261832052081",
+    "title": "计算机行业点评报告：Spotify（SPOT）：收入与经营利润增长，个性化音频生态持续拓展",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "华鑫证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 300,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611261832044341",
+    "title": "医药生物行业点评报告：AR1001预设单药人群达主要终点，口服AD疾病修饰药物迎来重要突破",
+    "industryName": "化学制药",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 430,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832038859",
+    "title": "2026年中国医疗服务企业东南亚出海机遇洞察：面向6.8亿人口，中国医企构建区域跨境医疗新格局",
+    "industryName": "医疗服务",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 12,
+    "attachSize": 1612,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611251832037354",
+    "title": "有色金属深度报告：西藏——世界级铜资源基地，中国铜矿的未来",
+    "industryName": "工业金属",
+    "orgSName": "中邮证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 24,
+    "attachSize": 1236,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832032650",
+    "title": "通信行业点评报告：黄仁勋复职修复通信板块预期，听证会仍存管制变量",
+    "industryName": "通信设备",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 248,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832032193",
+    "title": "机床工具行业动态研究：订单增速逐季走高，盈利改善与出口承压并存",
+    "industryName": "通用设备",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 267,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832032191",
+    "title": "有色金属行业点评报告：鲍曼调查聚焦合规，货币政策影响有限",
+    "industryName": "贵金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 249,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832031853",
+    "title": "有色金属行业点评报告：通胀达标仍需时日，渐进紧缩基调延续",
+    "industryName": "工业金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 250,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832031799",
+    "title": "有色金属行业点评报告：财政警示过度紧缩，加息路径分歧加大",
+    "industryName": "工业金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 244,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611251832021610",
+    "title": "低利率时代的保险业：负债端转型与资产端应对",
+    "industryName": "保险Ⅱ",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 67,
+    "attachSize": 2544,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611251832021199",
+    "title": "医药生物行业点评报告：赛诺菲410亿美元收购Insmed补强呼吸平台，DPP1赛道商业价值获验证",
+    "industryName": "中药Ⅱ",
+    "orgSName": "东吴证券",
+    "publishDate": "2026-11-25 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 451,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611251832018144",
     "title": "煤炭进口数据拆解：26年10月：海外偏紧，进口煤收缩",
     "industryName": "煤炭开采",
@@ -948,155 +1078,5 @@
     "attachPages": 24,
     "attachSize": 1066,
     "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611181831834889",
-    "title": "统计局2026年1-10月房地产数据点评：地产基本面继续走弱，但房价趋势保持积极",
-    "industryName": "房地产开发",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 12,
-    "attachSize": 894,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611181831834409",
-    "title": "银行行业点评报告：中小行存款压力再现，大行跨年配债节奏前置",
-    "industryName": "银行Ⅱ",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 8,
-    "attachSize": 831,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611181831834011",
-    "title": "电气设备行业点评：辽宁容量补偿政策落地，储能收益机制进一步完善",
-    "industryName": "光伏设备",
-    "orgSName": "五矿证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 563,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611181831829368",
-    "title": "医药行业行业研究：EASD 2026回顾：Lilly&Novo领衔，中国新药数据涌现",
-    "industryName": "化学制药",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 23,
-    "attachSize": 4216,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611181831823486",
-    "title": "电气设备：“十五五”储能规划出台，发展目标与路径明确",
-    "industryName": "电池",
-    "orgSName": "五矿证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 653,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611181831823021",
-    "title": "苹果产业链专题报告：创新周期共振，AI与折叠iPhone打开价值量上行通道",
-    "industryName": "消费电子",
-    "orgSName": "西南证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 28,
-    "attachSize": 1592,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611181831820122",
-    "title": "传媒行业快评报告：2026年10月游戏市场收入环比增长，出海市场表现突出",
-    "industryName": "游戏Ⅱ",
-    "orgSName": "万联证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 2,
-    "attachSize": 415,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611181831818154",
-    "title": "房地产行业点评报告：销售单月降幅收窄，新开工降幅连续两个月收敛",
-    "industryName": "房地产开发",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 9,
-    "attachSize": 919,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611181831817907",
-    "title": "11月消费观察：10月消费继续弱增长",
-    "industryName": "互联网电商",
-    "orgSName": "国投证券(香港)",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 9,
-    "attachSize": 1324,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611181831816756",
-    "title": "汽车：Robotaxi专题点评报告-Cybercab面向个人销售，助推FSD订阅&个人车主运营",
-    "industryName": "汽车零部件",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 276,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611181831814901",
-    "title": "REITs行业投资策略：扩容提速与分化加剧，REITs回归现金流定价",
-    "industryName": "房地产开发",
-    "orgSName": "开源证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 24,
-    "attachSize": 3038,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611181831814393",
-    "title": "社服与消费视角点评10月国内宏观数据：10月社零同比+0.4%，增幅环比回落",
-    "industryName": "酒店餐饮",
-    "orgSName": "中银证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 6,
-    "attachSize": 598,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611181831814095",
-    "title": "燃气轮机行业专题：燃气轮机高温合金国产化趋势",
-    "industryName": "电机Ⅱ",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 25,
-    "attachSize": 1400,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611181831809289",
-    "title": "AI内容大时代：从生产变革到体验创新，内容产业新一轮成长周期开启",
-    "industryName": "游戏Ⅱ",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 47,
-    "attachSize": 6074,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611181831806363",
-    "title": "农林牧渔行业深度：生猪养殖业，周期见底，产业升级",
-    "industryName": "养殖业",
-    "orgSName": "太平洋",
-    "publishDate": "2026-11-18 00:00:00.000",
-    "attachPages": 28,
-    "attachSize": 1593,
-    "ratingChange": 4
   }
 ]
