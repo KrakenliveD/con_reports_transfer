@@ -1,5 +1,145 @@
 [
   {
+    "infoCode": "AP202611271832098315",
+    "title": "电气设备行业深度：非锂储能商业化进展如何？",
+    "industryName": "电池",
+    "orgSName": "五矿证券",
+    "publishDate": "2026-11-27 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 1428,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611271832089506",
+    "title": "金属行业2027年度策略：资源为锚，静待起潮",
+    "industryName": "能源金属",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-27 00:00:00.000",
+    "attachPages": 56,
+    "attachSize": 5537,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611271832089073",
+    "title": "通信行业点评报告：AI算力向太空延伸，低轨星座迎来新方向",
+    "industryName": "通信设备",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-27 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 245,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611271832089071",
+    "title": "有色金属行业点评报告：经济增长显著上修，紧缩预期与需求隐忧并存",
+    "industryName": "贵金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-27 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 251,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611271832089036",
+    "title": "通信行业点评报告：国产算力聚焦三条线：超节点、华为链、大芯片",
+    "industryName": "通信设备",
+    "orgSName": "开源证券",
+    "publishDate": "2026-11-27 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 321,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611261832075997",
+    "title": "消费需求日益多元，现炖燕窝凭借便捷食用与自主炖煮体验打开新市场空间 头豹词条报告系列",
+    "industryName": "饮料乳品",
+    "orgSName": "头豹研究院",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 13,
+    "attachSize": 5616,
+    "ratingChange": 4
+  },
+  {
+    "infoCode": "AP202611261832071440",
+    "title": "有色金属行业点评报告：核心通胀超预期上行，加息预期下金属波动加大",
+    "industryName": "贵金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 244,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611261832071402",
+    "title": "有色金属行业点评报告：成本压力持续扩散，需求走弱约束紧缩空间",
+    "industryName": "贵金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 250,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611261832071398",
+    "title": "通信行业专题研究点评：卫星互联网低轨30组卫星成功发射，我国商业航天布局持续加速",
+    "industryName": "通信设备",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 2,
+    "attachSize": 237,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611261832070740",
+    "title": "新能源行业：“从宁德时代看行业”系列之历史观-从宁德时代成长史看行业趋势：持续进化的产品生态",
+    "industryName": "电池",
+    "orgSName": "太平洋",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 32,
+    "attachSize": 2173,
+    "ratingChange": ""
+  },
+  {
+    "infoCode": "AP202611261832064892",
+    "title": "有色金属行业点评报告：短端投放呵护跨月，中期缩量引导预期",
+    "industryName": "工业金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 243,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611261832063504",
+    "title": "半导体行业研究：功率半导体市场结构性缺货或将延续，看好相关受益标的",
+    "industryName": "半导体",
+    "orgSName": "国金证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 19,
+    "attachSize": 2584,
+    "ratingChange": 2
+  },
+  {
+    "infoCode": "AP202611261832060094",
+    "title": "计算机行业点评报告：戴尔AI服务器营收增291%，国产算力替代正加速",
+    "industryName": "IT服务Ⅱ",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 4,
+    "attachSize": 282,
+    "ratingChange": 3
+  },
+  {
+    "infoCode": "AP202611261832060093",
+    "title": "有色金属行业点评报告：暂停措施接续延长，关键矿产贸易边际缓和",
+    "industryName": "工业金属",
+    "orgSName": "华龙证券",
+    "publishDate": "2026-11-26 00:00:00.000",
+    "attachPages": 3,
+    "attachSize": 249,
+    "ratingChange": 3
+  },
+  {
     "infoCode": "AP202611261832057959",
     "title": "电子行业研究：晶圆制造2.0时代，台积电竞争优势有望延续",
     "industryName": "元件",
@@ -858,225 +998,5 @@
     "attachPages": 3,
     "attachSize": 366,
     "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611191831865679",
-    "title": "计算机行业快评报告：工信部发布5项人形机器人标准，评测与训练数据同步立规",
-    "industryName": "计算机设备",
-    "orgSName": "万联证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 446,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831865326",
-    "title": "纺织制造代工专题：库存周期、产业迁移与供给拐点",
-    "industryName": "服装家纺",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 33,
-    "attachSize": 776,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831863477",
-    "title": "计算机行业点评报告：微软一次发布七款自研模型，模型竞赛转向性价比",
-    "industryName": "IT服务Ⅱ",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 273,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831863475",
-    "title": "有色金属行业点评报告：美元指数创阶段新高，紧缩交易升温金属承压",
-    "industryName": "工业金属",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 251,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831862278",
-    "title": "AI系列之模型速评｜Google：Gemini 4 Neon智能指数反超Carbon，三档模型阵容成型",
-    "industryName": "数字媒体",
-    "orgSName": "西南证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 7,
-    "attachSize": 1376,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611191831860774",
-    "title": "高端制造行业：优必选首披消费级大单，渠道跑通但交付待验",
-    "industryName": "专用设备",
-    "orgSName": "国新证券股份",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 349,
-    "ratingChange": 4
-  },
-  {
-    "infoCode": "AP202611191831860456",
-    "title": "2026年医保目录调整点评：1类新药纳入数量创新高，非肿瘤Me-too门槛抬高",
-    "industryName": "化学制药",
-    "orgSName": "浦银国际证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 8,
-    "attachSize": 998,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611191831857618",
-    "title": "AI系列之模型速评｜OpenAI：GPT-6.2 Astra单任务成本大降，3D交互评测登顶",
-    "industryName": "游戏Ⅱ",
-    "orgSName": "西南证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 8,
-    "attachSize": 1531,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611191831853492",
-    "title": "有色金属行业点评报告：10月FOMC纪要公布，加息预期再度升温",
-    "industryName": "工业金属",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 249,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831853490",
-    "title": "建筑材料行业点评报告：传统建材需求持续承压，关注城市更新带来的需求改善",
-    "industryName": "水泥",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 257,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831852853",
-    "title": "中小盘行业深度报告：水泥：区域分层与资产负债表",
-    "industryName": "水泥",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 16,
-    "attachSize": 695,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831852619",
-    "title": "2026年医保目录调整点评：1类新药纳入数量创新高，非肿瘤Me-too门槛抬高",
-    "industryName": "化学制药",
-    "orgSName": "浦银国际证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 8,
-    "attachSize": 1001,
-    "ratingChange": ""
-  },
-  {
-    "infoCode": "AP202611191831852242",
-    "title": "通信行业专题研究点评：星舰二级“筷子”回收取得里程碑突破，可复用技术进阶打开商业航天成长空间",
-    "industryName": "通信设备",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 259,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831852236",
-    "title": "有色金属行业点评报告：穆萨莱姆释放强鹰信号，加息预期上修金属承压",
-    "industryName": "工业金属",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 253,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831847419",
-    "title": "煤炭行业政策点评：2027年电煤中长期合同点评：长协机制纳入制度，核心条款稳定",
-    "industryName": "煤炭开采",
-    "orgSName": "山西证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 6,
-    "attachSize": 416,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831846816",
-    "title": "有色金属行业点评报告：加息方向渐成共识，节奏幅度分歧凸显",
-    "industryName": "贵金属",
-    "orgSName": "华龙证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 3,
-    "attachSize": 252,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831845893",
-    "title": "2027年AI展望：双寡头格局定调ARR稳健放量，Agent-Infra成破局迭代主线",
-    "industryName": "软件开发",
-    "orgSName": "国信证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 55,
-    "attachSize": 1362,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831845010",
-    "title": "储能：峰谷价差打开盈利空间，煤电融合提升未来需求",
-    "industryName": "其他电源设备Ⅱ",
-    "orgSName": "太平洋",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 4,
-    "attachSize": 456,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831844972",
-    "title": "房地产行业70个大中城市房价点评：10月房价同比降幅继续收窄，延续结构修复",
-    "industryName": "房地产开发",
-    "orgSName": "太平洋",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 9,
-    "attachSize": 2161,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831844966",
-    "title": "2026年10月统计局房地产数据点评：10月单月销售同比降幅收窄，开工、投资持续低迷",
-    "industryName": "房地产开发",
-    "orgSName": "太平洋",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 11,
-    "attachSize": 1227,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831844201",
-    "title": "耐用消费产业行业研究：AI散热系列之一：金刚石传统业务修复，散热应用启新程",
-    "industryName": "消费电子",
-    "orgSName": "国金证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 24,
-    "attachSize": 3216,
-    "ratingChange": 3
-  },
-  {
-    "infoCode": "AP202611191831840542",
-    "title": "非银金融行业深度报告：券商IT——核心系统进入新一轮升级周期，AI融合打开增量空间",
-    "industryName": "证券Ⅱ",
-    "orgSName": "东吴证券",
-    "publishDate": "2026-11-19 00:00:00.000",
-    "attachPages": 24,
-    "attachSize": 1066,
-    "ratingChange": 3
   }
 ]
